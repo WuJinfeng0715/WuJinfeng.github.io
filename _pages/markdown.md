@@ -1,1 +1,1 @@
-这是我的中文简历
+There is my chinese resume
