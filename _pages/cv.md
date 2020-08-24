@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-*Fudan University 
-*Mater of Law in Sociology; GPA: 3.93 (ranked 1/15)
-*Fudan University,
-*Bachelor of Law in Sociology; GPA: 3.75 (ranked 3/77)
+* Fudan University 
+  * Mater of Law in Sociology; GPA: 3.93 (ranked 1/15)
+  * Bachelor of Law in Sociology; GPA: 3.75 (ranked 3/77)
 
 Work experience
 ======
