@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+*Fudan University 
+*Mater of Law in Sociology; GPA: 3.93 (ranked 1/15)
+*Fudan University,
+*Bachelor of Law in Sociology; GPA: 3.75 (ranked 3/77)
 
 Work experience
 ======
