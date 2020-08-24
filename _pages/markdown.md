@@ -1,10 +1,8 @@
 ---
-layout: archive
-title: "中文简历"
 permalink: /markdown/
-author_profile: true
-redirect_from:
-  - /resume
+title: "中文简历"
+author_profile: false
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
-
-{% include base_path %}
