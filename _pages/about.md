@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align:justify; text-justify:inter-ideograph;><font size="3">
+<p style="text-align:justify; text-justify:inter-ideograph><font size="3">
 Jinfeng Wu is a third-year postgraduate student pursuing his M.A in Sociology at Fudan University, China. His primary research interest lies in political sociology and digital sociology. Specifically, he wants to use social media data to study people's political value. He is currently working on his master’s thesis on the diversification of Chinese cyber patriotism.<br>
 <br>
 For infomation, please see my <a href="https://wujinfeng0715.github.io//files/CV-JinfengWu-20200614.pdf">cv</a>.<br>
