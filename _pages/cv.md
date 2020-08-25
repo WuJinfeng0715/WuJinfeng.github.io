@@ -15,7 +15,7 @@ Education
   * Sep 2018 - Present,  Mater of Law in Sociology; GPA: 3.93 (ranked 1/15)
   * Sep 2014 - Jun 2018, Bachelor of Law in Sociology; GPA: 3.75 (ranked 3/77)  
   
-Research interests
+Research Interests
 ======
 * Political Sociology: Political Value; Political Participation
 * Digital Sociology: ICT and Politics; Big Data Analysis  
@@ -26,7 +26,7 @@ Publications
 * Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (accepted). Meaning of Chinese New Era: Big data Analytics Based on Sina-Weibo Tweets. Journal of Lanzhou University (Social Sciences)
 * Wu, Jinfeng & Huang, Ronggui. (in preparation). Economic Development, Marketization and Citizens’ Political Trust in Local Government  
   
-Conference articles
+Conference Articles
 ======
 * Wu, Jinfeng. (2019). Economic Development, Marketization and Chinese Citizens’ Political Value. Annual Meeting of the Chinese Sociological Association
   * *This paper won Distinguished Paper Award in Annual Meeting of the Chinese Sociological Association*
@@ -34,7 +34,7 @@ Conference articles
 * Wu, Jinfeng. (2019). Change of Modern Value of Chinese Citizens during 1990-2012. Annual Meeting of the Shanghai Sociological Association
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2018). Three Faces of Chinese Citizens’ Political Value: An Exploratory Study Based on Social Thought of Thousand People Program. Annual Meeting of the Chinese Sociological Association  
   
-Research experience
+Research Experience
 ======
 * July 2019 - Present, Research Assistant  
   *The Characteristics of Chinese Internet Social Mentality Program*
