@@ -29,7 +29,7 @@ Publications
 Conference articles
 ======
 * Wu, Jinfeng. (2019). Economic Development, Marketization and Chinese Citizens’ Political Value. Annual Meeting of the Chinese Sociological Association
-  * This paper won Distinguished Paper Award in Annual Meeting of the Chinese Sociological Association
+  * *This paper won Distinguished Paper Award in Annual Meeting of the Chinese Sociological Association*
 * Wu, Jinfeng. (2019). Discussion about Chinese Countryside in Cyber Space: Big Data Analytics with LDA Topic Model. Annual Meeting of the Chinese Sociological Association
 * Wu, Jinfeng. (2019). Change of Modern Value of Chinese Citizens during 1990-2012. Annual Meeting of the Shanghai Sociological Association
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2018). Three Faces of Chinese Citizens’ Political Value: An Exploratory Study Based on Social Thought of Thousand People Program. Annual Meeting of the Chinese Sociological Association
@@ -37,17 +37,17 @@ Conference articles
 Research experience
 ======
 * July 2019 - Present: Research Assistant
-  * The Characteristics of Chinese Internet Social Mentality Program
+  * *The Characteristics of Chinese Internet Social Mentality Program*
   * Retrieved relevant literatures about social mentality and completed a 30,000-word literature review in one month
   * Keep studying the characteristics of cyber patriotism since December 2019. Combined supervised machine learning and cyber ethnography to analyze more than 150,000 Weibos
 
 * Oct 2018 – Dec 2018: Research Assistant
-  * Centre of State Governance and Communication Research, Fudan University
+  * *Centre of State Governance and Communication Research, Fudan University*
   * Conducted data analysis and visualization with social media big data, using semantic network method with Gephi
   * Write reports about political values embedded in Chinese Internet field. Related results were reported by major newspapers (e.g. People's Daily) in China
 
 * Oct 2017 – Aug 2018: Research Assistant
-  * Social Thought of Thousand People Program
+  * *Social Thought of Thousand People Program*
   * Coded more than 150 interview materials related to Chinese political value. Based on qualitative analysis, I proposed one theoretical model to distinguish three types of political values
 
 Skills
