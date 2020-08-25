@@ -50,6 +50,11 @@ Research Experience
   *Social Thought of Thousand People Program*
   * Coded more than 150 interview materials related to Chinese political value. Based on qualitative analysis, I proposed one theoretical model to distinguish three types of political values  
   
+Awards
+======
+* Distinguished Paper Award, Section on Political Sociology, Annual Meeting of the Chinese Sociological Association, 2019
+* National Scholarship for Postgraduates, 2019  
+   
 Skills
 ======
 * Programming
