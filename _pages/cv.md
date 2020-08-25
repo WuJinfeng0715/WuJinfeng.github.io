@@ -37,17 +37,17 @@ Conference articles
 Research experience
 ======
 * July 2019 - Present: Research Assistant
-  *The Characteristics of Chinese Internet Social Mentality Program*
+*The Characteristics of Chinese Internet Social Mentality Program*
   * Retrieved relevant literatures about social mentality and completed a 30,000-word literature review in one month
   * Keep studying the characteristics of cyber patriotism since December 2019. Combined supervised machine learning and cyber ethnography to analyze more than 150,000 Weibos
 
 * Oct 2018 – Dec 2018: Research Assistant
-  *Centre of State Governance and Communication Research, Fudan University*
+*Centre of State Governance and Communication Research, Fudan University*
   * Conducted data analysis and visualization with social media big data, using semantic network method with Gephi
   * Write reports about political values embedded in Chinese Internet field. Related results were reported by major newspapers (e.g. People's Daily) in China
 
 * Oct 2017 – Aug 2018: Research Assistant
-  *Social Thought of Thousand People Program*
+*Social Thought of Thousand People Program*
   * Coded more than 150 interview materials related to Chinese political value. Based on qualitative analysis, I proposed one theoretical model to distinguish three types of political values
 
 Skills
