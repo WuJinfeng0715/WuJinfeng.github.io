@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "WuJinfeng"
-  avatar           : "profile.png"
+  avatar           : "profile_2.png"
   bio              : # "Mobile:（+86）15121153052"
   location         : "Fudan University,Shanghai"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "wjf_fdu@163.com"
-  #researchgate     :  https://www.researchgate.net/profile/Jinfeng_Wu6
+  researchgate    :  https://www.researchgate.net/profile/Jinfeng_Wu6
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WuJinfeng0715"
+  github           : # "WuJinfeng0715"
   google_plus      :
   keybase          :
   instagram        :
