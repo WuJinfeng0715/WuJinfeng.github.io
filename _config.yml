@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "WuJinfeng"
   avatar           : "profile.png"
-  bio              : "Mobile:（+86）15121153052"
-  location         : "Shanghai"
+  bio              : # "Mobile:（+86）15121153052"
+  location         : "Fudan University,Shanghai"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "wjf_fdu@163.com"
-  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #researchgate     :  https://www.researchgate.net/profile/Jinfeng_Wu6
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
