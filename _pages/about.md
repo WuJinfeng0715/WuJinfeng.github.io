@@ -15,7 +15,7 @@ For more infomation, please see my <a href="https://wujinfeng0715.github.io//fil
 <br>
 吴锦峰，复旦大学社会学系硕士研究生三年级。他的研究方向为政治社会学与网络社会学。特别的，他致力于结合计算社会科学方法，使用新媒体数据研究人们的政治价值观。目前他正在进行与网络爱国主义分化相关的硕士论文研究。<br>
 <br>
-更多信息请参照简历。
+更多信息请参照<a href="https://wujinfeng0715.github.io//files/科研履历-吴锦峰-20200606.pdf">简历</a>。
 </font>
 
 
