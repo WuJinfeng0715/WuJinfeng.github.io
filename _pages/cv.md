@@ -61,7 +61,7 @@ Skills
 ======
 * Programming
   * Stata (5 years)
-  * R (2 years)
+  * Python (2 years)
   * R (2 years)
 * Language
   * CET6
