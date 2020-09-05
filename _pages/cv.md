@@ -23,11 +23,15 @@ Research Interests
 Publications
 ======
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2020). Netizens’ Worldview towards Social Fairness in the Internet Field:  A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Journal of Sociological Studies (3): 132-153 [Abstract](https://www.jikan.com.cn/iedolDetail/2079113)
-* Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (accepted). Meaning of Chinese New Era: Big data Analytics Based on Sina-Weibo Tweets. Journal of Lanzhou University (Social Sciences)
+* Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (accepted). Meaning of Chinese New Era: Big data Analytics Based on Sina-Weibo Tweets. Journal of Lanzhou University (Social Sciences)(5)
 * Wu, Jinfeng & Huang, Ronggui. (in preparation). Economic Development, Marketization and Citizens’ Political Trust in Local Government  
   
 Conference Articles
 ======
+* Huang, Ronggui; Wu Jinfeng & Gui, Yong. (2020). Internet Social Mentality: New Development of Social Mentality Research in the Internet Age. Annual Meeting of the Chinese Sociological Association
+* Wu, Jinfeng. (2020). Changes of Materialist Value in Chinese Society during 1995-2012: An Exploratory Study Based on APC Model. Annual Meeting of the Chinese Sociological Association
+* Wu, Jinfeng. (2019). Economic Development, Marketization and Chinese Citizens’ Political Trust in Local Government. Annual Meeting of the Shanghai Sociological Association
+  * *This paper won Distinguished Paper Award in Annual Meeting of the Shanghai Sociological Association*
 * Wu, Jinfeng. (2019). Economic Development, Marketization and Chinese Citizens’ Political Value. Annual Meeting of the Chinese Sociological Association
   * *This paper won Distinguished Paper Award in Annual Meeting of the Chinese Sociological Association*
 * Wu, Jinfeng. (2019). Discussion about Chinese Countryside in Cyber Space: Big Data Analytics with LDA Topic Model. Annual Meeting of the Chinese Sociological Association
@@ -53,14 +57,15 @@ Research Experience
 Awards
 ======
 * Distinguished Paper Award, Section on Political Sociology, Annual Meeting of the Chinese Sociological Association, 2019
+* Distinguished Paper Award, Annual Meeting of the Shanghai Sociological Association, 2019
 * National Scholarship for Postgraduates, 2019  
    
 Skills
 ======
 * Programming
-  * Stata (6 years)
-  * Python (4 years)
-  * R (2 years)
+  * Stata 
+  * Python
+  * R 
 * Language
   * CET6  
   
