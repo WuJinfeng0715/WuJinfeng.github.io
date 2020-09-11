@@ -63,6 +63,7 @@ Academic Awards
 * Distinguished Paper Award, Section on Political Sociology, Annual Meeting of the Chinese Sociological Association, 2019
 * Distinguished Paper Award, Annual Meeting of the Shanghai Sociological Association, 2019
 * National Scholarship for Postgraduates, 2019  
+* Excellent Dissertation for Bachelor's degree, Fudan University, 2018
    
 Skills
 ======
