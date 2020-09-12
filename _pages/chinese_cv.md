@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "中文简历"
+title: "简历"
 permalink: /chinese_cv/
 author_profile: true
 redirect_from:
@@ -9,39 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* Fudan University 
-  * Sep 2018 - Present,  Mater of Law in Sociology; GPA: 3.93 (ranked 1/15)
-  * Sep 2014 - Jun 2018, Bachelor of Law in Sociology; GPA: 3.75 (ranked 3/77)  
+* 复旦大学
+  * 2018.09 - 至今, 社会学系硕士研究生; 绩点: 3.93 （排名 1/15）
+  * 2014.09 - 2018.06, 法学学士学位（社会学专业）; 绩点: 3.75 （排名 3/77）  
   
-Research Interests
+研究方向
 ======
-* Political Sociology: Political Value; Political Participation
-* Digital Sociology: Internet Social Mentality; Big Data Analysis  
+* 政治社会学：政治文化、政治参与
+* 网络社会学：网络社会心态、大数据分析方法
   
-Publications
+期刊论文
 ======
-* Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2020). Netizens’ Worldview towards Social Fairness in the Internet Field:  A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Journal of Sociological Studies (3): 132-153 [Abstract](https://www.jikan.com.cn/iedolDetail/2079113)
-* Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (accepted). Meaning of Chinese New Era: Big data Analytics Based on Sina-Weibo Tweets. Journal of Lanzhou University (Social Sciences)(5) \[CSSCI]
+* 吴锦峰、黄荣贵、桂勇，2020，《社会公平观的网络镜像——基于2013-2018年微博博文的语义网分析》，《社会学刊》第3期 [Abstract](https://www.jikan.com.cn/iedolDetail/2079113)
+* 郑雯、吴锦峰、胡佳丰，即将发布，《新时代的网络语义——基于微博博文的大数据分析》，《兰州大学学报（社会科学版）》第5期 \[CSSCI]
 
 Working Papers
 ======
-* Wu, Jinfeng & Huang, Ronggui. (in preparation). Economic Development, Marketization and Citizens’ Political Trust in Local Government
-* Wu, Jinfeng. (in preparation). The Diversity and Changes of Chinese Cyber Patriotism
+* 吴锦峰、黄荣贵，工作论文，经济绩效、市场化与中国居民的地方政府信任
+* 吴锦峰，工作论文，中国网络爱国主义的分化与演进
 
-Conference Articles
+会议论文
 ======
-* Huang, Ronggui; Wu Jinfeng & Gui, Yong. (2020). Internet Social Mentality: New Development of Social Mentality Research in the Internet Age. Annual Meeting of the Chinese Sociological Association
-* Wu, Jinfeng. (2020). Changes of Materialist Value in Chinese Society during 1995-2012: An Exploratory Study Based on APC Model. Annual Meeting of the Chinese Sociological Association
-* Wu, Jinfeng. (2019). Economic Development, Marketization and Chinese Citizens’ Political Trust in Local Government. Annual Meeting of the Shanghai Sociological Association
-  * *This paper won Distinguished Paper Award in Annual Meeting of the Shanghai Sociological Association*
-* Wu, Jinfeng. (2019). Economic Development, Marketization and Chinese Citizens’ Political Value. Annual Meeting of the Chinese Sociological Association
-  * *This paper won Distinguished Paper Award in Annual Meeting of the Chinese Sociological Association*
-* Wu, Jinfeng. (2019). Discussion about Chinese Countryside in Cyber Space: Big Data Analytics with LDA Topic Model. Annual Meeting of the Chinese Sociological Association
-* Wu，Jinfeng; Huang, Ronggui & Gui Yong. (2019). Netizens’ Worldview towards Social Fairness in the Internet Field:  A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Annual Meeting of the Chinese Sociological Association
-* Wu, Jinfeng. (2019). Changes of Modern Value of Chinese Citizens during 1990-2012. Annual Meeting of the Shanghai Sociological Association
-* Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2018). Three Faces of Chinese Citizens’ Political Value: An Exploratory Study Based on Social Thought of Thousand People Program. Annual Meeting of the Chinese Sociological Association  
+* 黄荣贵、吴锦峰、桂勇，2020，《网络社会心态：网络时代社会心态研究的新动向》，中国社会学年会2020年学术年会（网络社会学分论坛），时间待定
+* 吴锦峰，2020，《中国社会的物质主义价值观变迁（1995-2012）——基于APC模型的分析》，中国社会学年会2020年学术年会（文化社会学分论坛），9月9日，线上论坛
+* 吴锦峰，2019，《市场化对地方政府信任的分化影响：基于发展绩效的视角》，11月3日，上海
+* 吴锦峰，2019，《发展绩效、市场化与中国人的政治价值观——基于CGSS2010的分析》，中国社会学会2019年学术年会（政治社会学分论坛），7月13日，昆明
+  * *该论文获评社会学年会优秀论文（二等奖）
+* 吴锦峰，2019，《被诉说的农村：对网络农村议题讨论的LDA话题模型分析》，中国社会学会2019年学术年会（文化社会学分论坛），7月13日，昆明
+* 吴锦峰，黄荣贵，桂勇，2019，《社会公平观的网络镜像——基于2013-2018年微博博文的语义网分析》，中国社会学学会2019年学术年会（传播社会学分论坛），7月13日，昆明
+* 吴锦峰，2018，《文化转型：中国价值观变迁的维度、程度与趋势— 基于1990-2012年WVS数据的分析》，上海社会学学会2018年学术年会，10月27日，上海
+* 吴锦峰、黄荣贵、桂勇，2018，《政治价值观的三重面相：基于“中国千人社会心态”研究的质性分析》，中国社会学会2018年学术年会（政治社会学分论坛），7月16日，南京
 
 Research Experience
 ======
