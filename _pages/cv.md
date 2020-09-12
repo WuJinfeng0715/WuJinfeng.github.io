@@ -23,7 +23,7 @@ Research Interests
 Publications
 ======
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2020). Netizens’ Worldview towards Social Fairness in the Internet Field:  A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Journal of Sociological Studies (3): 132-153 [Abstract](https://www.jikan.com.cn/iedolDetail/2079113)
-* Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (accepted). Meaning of Chinese New Era: Big data Analytics Based on Sina-Weibo Tweets. Journal of Lanzhou University (Social Sciences)(5)
+* Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (accepted). Meaning of Chinese New Era: Big data Analytics Based on Sina-Weibo Tweets. Journal of Lanzhou University (Social Sciences)(5) \[CSSCI]
 
 Working Papers
 ======
