@@ -43,33 +43,34 @@ redirect_from:
 * 吴锦峰，2018，《文化转型：中国价值观变迁的维度、程度与趋势— 基于1990-2012年WVS数据的分析》，上海社会学学会2018年学术年会，10月27日，上海
 * 吴锦峰、黄荣贵、桂勇，2018，《政治价值观的三重面相：基于“中国千人社会心态”研究的质性分析》，中国社会学会2018年学术年会（政治社会学分论坛），7月16日，南京
 
-Research Experience
+研究经历
 ======
-* July 2019 - Present, Research Assistant  
-  *The Characteristics of Chinese Internet Social Mentality Program*
-  * Retrieved relevant literatures about social mentality and completed a 30,000-word literature review in one month
-  * Keep studying the characteristics of cyber patriotism since December 2019. Combined supervised machine learning and cyber ethnography to analyze more than 150,000 Weibos  
+* 2019年8月 - 至今，项目成员
+  *国家社科基金重大项目：大数据驱动的网络社会心态发展规律与引导策略研究*
+  * 课题申报：协助课题申报工作，检索国内外相关文献，在一个月内完成3万字的完整文献综述。
+  * 子项目推进：独立研究网络爱国主义思潮。通过Python爬取了15万条微博文本，利用监督学习与社会网络方法进行数据分析，并结合网络民族志的结果呈现网络爱国主义的多元性。
   
-* Oct 2018 – Dec 2018, Research Assistant  
-  *Centre of State Governance and Communication Research, Fudan University*
-  * Conducted data analysis and visualization with social media big data, using semantic network method with Gephi
-  * Write reports about political values embedded in Chinese Internet field. Related results were reported by major newspapers (e.g. People's Daily) in China  
+* 2018年10月 – 2018年12月, 研究助理  
+  *复旦大学传播与国家治理研究中心*
+  * 数据分析：对2013-2018年的新浪微博博文展开语义网络分析，并负责数据可视化工作。
+  * 报告写作：协助《中国网络社会心态报告(2018)》的分话题写作，相关成果已在人民日报等重要媒体发布。
   
-* Oct 2017 – Aug 2018, Research Assistant  
-  *Social Thought of Thousand People Program*
-  * Coded more than 150 interview materials related to Chinese political value. Based on qualitative analysis, I proposed one theoretical model to distinguish three types of political values and study the distribution of political value in different social groups
+* 2017年10月 – 2018年8月, 项目成员 
+  *中国千人社会心态研究项目*
+  * 文本分析：对150份访谈资料进行质性编码。类型学分析显示，中国人的政治价值观呈现出民本主义、问责主义与权利主义的三元分化。
+  * 访谈编码：对近1000份访谈进行主题编码，推广类型学框架，分析政治价值观与个人特征的关系。
   
-Academic Awards
+学术荣誉
 ======
-* Distinguished Paper Award, Section on Political Sociology, Annual Meeting of the Chinese Sociological Association, 2019
-* Distinguished Paper Award, Annual Meeting of the Shanghai Sociological Association, 2019
-* National Scholarship for Postgraduates, 2019  
-* Excellent Dissertation for Bachelor's degree, Fudan University, 2018
-   
-Skills
+* 2019，中国社会学学会学术年会优秀论文（二等奖）
+* 2019，上海社会学学会学术年会优秀论文（优秀奖）
+* 研究生国家奖学金，2019
+* 复旦大学本科优秀毕业论文，2018
+
+技能与其他
 ======
-* Programming and Statistical Software
-  * Python, R, Stata
-* Language
-  * English(Fluent), Chinese(Native)
+* 编程与统计软件
+  * Python, R, Stata, Gephi
+* 语言
+  * 英语（流利），中文
   
