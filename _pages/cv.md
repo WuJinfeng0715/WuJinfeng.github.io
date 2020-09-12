@@ -35,6 +35,7 @@ Conference Articles
 ======
 * Huang, Ronggui; Wu Jinfeng & Gui, Yong. (2020). Internet Social Mentality: New Development of Social Mentality Research in the Internet Age. Annual Meeting of the Chinese Sociological Association
 * Wu, Jinfeng. (2020). Changes of Materialist Value in Chinese Society during 1995-2012: An Exploratory Study Based on APC Model. Annual Meeting of the Chinese Sociological Association
+* Wu, Jinfeng. (2019). The Differentiation Impact of Marketization on Local Government Trust: Based on the Perspective of Development Performance. Annual Meeting of the Shanghai Sociological Association
 * Wu, Jinfeng. (2019). Economic Development, Marketization and Chinese Citizens’ Political Trust in Local Government. Annual Meeting of the Shanghai Sociological Association
   * *This paper won Distinguished Paper Award in Annual Meeting of the Shanghai Sociological Association*
 * Wu, Jinfeng. (2019). Economic Development, Marketization and Chinese Citizens’ Political Value. Annual Meeting of the Chinese Sociological Association
