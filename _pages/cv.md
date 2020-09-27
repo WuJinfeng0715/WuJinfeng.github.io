@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * Fudan University 
-  * Sep 2018 - Present,  Mater of Law in Sociology; GPA: 3.93 (ranked 1/15)
+  * Sep 2018 - Present,  Mater of Law in Sociology; GPA: 3.94 (ranked 1/15)
   * Sep 2014 - Jun 2018, Bachelor of Law in Sociology; GPA: 3.75 (ranked 3/77)  
   
 Research Interests
