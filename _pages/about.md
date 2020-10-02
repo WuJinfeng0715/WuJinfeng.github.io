@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <font size="3">
-Jinfeng Wu is a third-year postgraduate student pursuing his Master degree in Sociology at Fudan University, China. His primary research interest lies in political sociology and digital sociology. Specifically, he wants to use social media data to study people's political value. He is currently working on his master’s thesis on the diversification of Chinese cyber patriotism.<br>
+Jinfeng Wu is a third-year postgraduate student pursuing his Master degree in Sociology at Fudan University, China. His primary research interest lies in political sociology and digital sociology. Specifically, he wants to use social media data to study people's political values. He is currently working on his master’s thesis on the diversification of Chinese cyber patriotism.<br>
 <br>
 For more infomation, please see my <a href="https://wujinfeng0715.github.io/cv/">English cv-page</a> or download <a href="https://wujinfeng0715.github.io//files/CV-JinfengWu-20201002.pdf">my short cv file</a>.<br>
 <br>
