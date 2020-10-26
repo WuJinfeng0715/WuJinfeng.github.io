@@ -55,7 +55,7 @@ Research Experiences
   * Results showed cyber nationalism which is rising recently has generated stable differentiation inside. Argued differentiation of cyber nationalism is shaped by diverse social forces, including official mobilization and traditional legacy. 
   
 * Oct 2018 – Dec 2018, Research Assistant  
-  *Centre of State Governance and Communication Research, Fudan University*
+  *Center of State Governance and Communication Research, Fudan University*
   * Conducted data analysis and visualization with social media big data, using semantic network method with Gephi. 
   * Drafted reports describing netizens’ political values, with results published by newspapers (e.g. People's Daily) in China.
   
