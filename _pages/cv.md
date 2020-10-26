@@ -43,8 +43,8 @@ Conference Articles
 * Wu, Jinfeng. (2019). Economic Development, Marketization and Chinese Citizens’ Political Values. Annual Meeting of the Chinese Sociological Association
   * *This paper won Distinguished Paper Award in Annual Meeting of the Chinese Sociological Association*
 * Wu, Jinfeng. (2019). Discussion about Chinese Countryside in Cyber Space: Big Data Analytics with LDA Topic Model. Annual Meeting of the Chinese Sociological Association
-* Wu，Jinfeng; Huang, Ronggui & Gui Yong. (2019). Netizens’ Worldview towards Social Fairness in the Internet Field:  A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Annual Meeting of the Chinese Sociological Association
-* Wu, Jinfeng. (2019). Changes of Modern Value of Chinese Citizens during 1990-2012. Annual Meeting of the Shanghai Sociological Association
+* Wu, Jinfeng; Huang, Ronggui & Gui Yong. (2019). Netizens’ Worldview towards Social Fairness in the Internet Field:  A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Annual Meeting of the Chinese Sociological Association
+* Wu, Jinfeng. (2018). Changes of Modern Value of Chinese Citizens during 1990-2012. Annual Meeting of the Shanghai Sociological Association
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2018). Three Faces of Chinese Citizens’ Political Values: An Exploratory Study Based on Social Thought of Thousand People Program. Annual Meeting of the Chinese Sociological Association  
 
 Research Experiences
