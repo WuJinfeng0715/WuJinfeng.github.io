@@ -19,12 +19,15 @@ Education
 Research Interests
 ======
 * Political Sociology: Political Value; Political Participation
-* Digital Sociology: Internet Social Mentality; Big Data Analysis  
+* Sociology of the Internet: Internet Social Mentality; Big Data Analysis  
   
 Publications
 ======
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2020). Netizens’ Worldview towards Social Fairness in the Internet Field:  A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Journal of Sociological Studies (3): 132-153 [Abstract](https://www.jikan.com.cn/iedolDetail/2079113)
 * Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (2020). Netizens’ Perception of New Era and its Social Economic Implications. Journal of Lanzhou University (Social Sciences)(5)\[CSSCI]
+* Huang, Ronggui; Wu Jinfeng & Gui, Yong. (Under Review). Internet Social Mentality: Key Features; Theoretical Perspectives and Research Topics. Sociological Review of China [CSSCI]
+
+CSSCI indicates “Chinese Social Science Citation Index”.
 
 Working Papers
 ======
@@ -44,35 +47,37 @@ Conference Articles
 * Wu, Jinfeng. (2019). Changes of Modern Value of Chinese Citizens during 1990-2012. Annual Meeting of the Shanghai Sociological Association
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2018). Three Faces of Chinese Citizens’ Political Values: An Exploratory Study Based on Social Thought of Thousand People Program. Annual Meeting of the Chinese Sociological Association  
 
-Research Experience
+Research Experiences
 ======
-* July 2019 - Present, Research Assistant  
-  *The Characteristics of Chinese Internet Social Mentality Program*
-  * Retrieved relevant literatures about social mentality and completed a 30,000-word literature review in one month
-  * Studying characteristics of cyber patriotism and analyzing over 150,000 Weibo entries by using supervised machine learning and cyber ethnography
+* July 2019 - Present, Independent research  
+  *Master’s Thesis: Features and Changes of Chinse Cyber Nationalism*
+  * Analyzed features of Chinese cyber nationalism on Weibo with an original dataset of more than 150,000 Weibos using machine learning and social network analysis.
+  * Results showed cyber nationalism which is rising recently has generated stable differentiation inside. Argued differentiation of cyber nationalism is shaped by diverse social forces, including official mobilization and traditional legacy. 
   
 * Oct 2018 – Dec 2018, Research Assistant  
   *Centre of State Governance and Communication Research, Fudan University*
-  * Conducted data analysis and visualization with social media big data, using semantic network method with Gephi
-  * Wrote reports about political values embedded in Chinese Internet field. Related results were reported by major newspapers (e.g. People's Daily) in China  
+  * Conducted data analysis and visualization with social media big data, using semantic network method with Gephi. 
+  * Drafted reports describing netizens’ political values, with results published by newspapers (e.g. People's Daily) in China.
   
 * Oct 2017 – Aug 2018, Research Assistant  
   *Social Thought of Thousand People Program*
-  * Coded more than 1000 interview materials related to Chinese political values. Based on qualitative analysis, I proposed one theoretical model to distinguish three types of political values and studied the distribution of political values in different social groups
+  * Coded more than 1000 interview materials related to Chinese political values. Proposed one typology to distinguish three types of political values to explain coexistence of high political trust and rising democratic requirement in mainland China.
   
-Academic Awards
+Academic Honors
 ======
 * Distinguished Paper Award, Section on Political Sociology, Annual Meeting of the Chinese Sociological Association, 2019
-* Distinguished Paper Award, Annual Meeting of the Shanghai Sociological Association, 2019
-* National Scholarship for Postgraduates, 2019  
+* Distinguished Paper Award, Section on Social Mentality, Annual Meeting of the Shanghai Sociological Association, 2019
+* National Scholarship for Postgraduates (CNY 20,000), 2019&2020 
 * Excellent Dissertation for Bachelor's degree, Fudan University, 2018
    
 Skills
 ======
 * Programming and Statistical Software
   * Python, R, Stata
+* Research Methods
+  * Quantitative Analysis (e.g. Causal Inference); Big Data Analysis (e.g. Data Scraping; Machine Learning)
 * Language
   * English(Fluent), Chinese(Native)
   
-Version: Oct 02,2020
+Version: Oct 26,2020
   
