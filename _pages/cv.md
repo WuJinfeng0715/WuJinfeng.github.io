@@ -79,5 +79,5 @@ Skills
 * Language
   * English(Fluent), Chinese(Native)
   
-Version: Nov 11th,2020
+Version: Nov 12th,2020
   
