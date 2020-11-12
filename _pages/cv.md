@@ -45,7 +45,7 @@ Conference Articles
 * Wu, Jinfeng. (2019). Discussion about Chinese Countryside in Cyber Space: Big Data Analytics with LDA Topic Model. Annual Meeting of the Chinese Sociological Association
 * Wu, Jinfeng; Huang, Ronggui & Gui Yong. (2019). Netizens’ Worldview towards Social Fairness in the Internet Field:  A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Annual Meeting of the Chinese Sociological Association
 * Wu, Jinfeng. (2018). Changes of Modern Value of Chinese Citizens during 1990-2012. Annual Meeting of the Shanghai Sociological Association
-* Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2018). Three Faces of Chinese Citizens’ Political Values: An Exploratory Study Based on Social Thought of Thousand People Program. Annual Meeting of the Chinese Sociological Association  
+* Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2018). Three Faces of Chinese Citizens’ Political Values: An Exploratory Study Based on Social Mentality of Thousand People Program. Annual Meeting of the Chinese Sociological Association  
 
 Research Experiences
 ======
@@ -60,7 +60,7 @@ Research Experiences
   * Drafted reports describing netizens’ political values, with results published by newspapers (e.g. People's Daily) in China.
   
 * Oct 2017 – Aug 2018, Research Assistant  
-  *Social Thought of Thousand People Program*
+  *Social Mentality of Thousand People Program*
   * Coded more than 1000 interview materials related to Chinese political values. Proposed one typology to distinguish three types of political values to explain coexistence of high political trust and rising democratic requirement in mainland China.
   
 Academic Honors
