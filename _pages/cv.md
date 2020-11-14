@@ -61,7 +61,7 @@ Research Experiences
   
 * Oct 2017 – Aug 2018, Research Assistant  
   *Social Mentality of Thousand People Program*
-  * Coded more than 1000 interview materials related to Chinese political values. Proposed one typology to distinguish three types of political values to explain coexistence of high political trust and rising democratic requirement in mainland China.
+  * Coded ~1000 interview materials related to Chinese political values. Proposed one typology to distinguish three types of political values to explain coexistence of high political trust and rising democratic requirement in mainland China.
   
 Academic Honors
 ======
