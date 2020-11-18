@@ -22,8 +22,8 @@ redirect_from:
   
 期刊论文
 ======
-* 吴锦峰、黄荣贵、桂勇，2020，《社会公平观的网络镜像——基于2013-2018年微博博文的语义网分析》，《社会学刊》第3期 [Abstract](https://www.jikan.com.cn/iedolDetail/2079113)
-* 郑雯、吴锦峰、胡佳丰，2020，《“新时代”的网络镜像及其社会性意涵》，《兰州大学学报（社会科学版）》第5期：138-143 \[CSSCI] [Abstract](https://kns.cnki.net/kcms/detail/detail.aspx?filename=LDSK202005017&dbcode=CJFQ&dbname=CJFDTEMP&v=F66xOxab574x29y%mmd2BNJ0KKk85QkVeKzwM2HJWS1JCDkNLEEtdRqugmh7RXJPfjYx1)
+* 吴锦峰、黄荣贵、桂勇，2020，《社会公平观的网络镜像——基于2013-2018年微博博文的语义网分析》，《社会学刊》第3期 [摘要](https://www.jikan.com.cn/iedolDetail/2079113)
+* 郑雯、吴锦峰、胡佳丰，2020，《“新时代”的网络镜像及其社会性意涵》，《兰州大学学报（社会科学版）》第5期：138-143 \[CSSCI] [摘要](https://kns.cnki.net/kcms/detail/detail.aspx?filename=LDSK202005017&dbcode=CJFQ&dbname=CJFDTEMP&v=F66xOxab574x29y%mmd2BNJ0KKk85QkVeKzwM2HJWS1JCDkNLEEtdRqugmh7RXJPfjYx1)
 * 黄荣贵、吴锦峰、桂勇，正在审稿，《网络社会心态：核心特征、分析视角及研究议题》，《社会学评论》 \[CSSCI]
 
 工作论文
