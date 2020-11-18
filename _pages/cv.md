@@ -24,7 +24,7 @@ Research Interests
 Publications
 ======
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2020). Chinese Netizens’ Worldview towards Social Fairness in the Internet Field: A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Journal of Sociological Studies, (3), 132-153.[Abstract](https://www.jikan.com.cn/iedolDetail/2079113)
-* Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (2020). Network Mirroring of the New Era and Its Social Meaning. Journal of Lanzhou University (Social Sciences), 48(5), 138-143.\[CSSCI]
+* Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (2020). Network Mirroring of the New Era and Its Social Meaning. Journal of Lanzhou University (Social Sciences), 48(5), 138-143.\[CSSCI] [Abstract](https://kns.cnki.net/kcms/detail/detail.aspx?filename=LDSK202005017&dbcode=CJFQ&dbname=CJFDTEMP&v=F66xOxab574x29y%mmd2BNJ0KKk85QkVeKzwM2HJWS1JCDkNLEEtdRqugmh7RXJPfjYx1)
 * Huang, Ronggui; Wu Jinfeng & Gui, Yong. (Under Review). Internet Social Mentality: Key Features; Theoretical Perspectives and Research Topics. Sociological Review of China. [CSSCI]
 
 CSSCI indicates “Chinese Social Science Citation Index”.
