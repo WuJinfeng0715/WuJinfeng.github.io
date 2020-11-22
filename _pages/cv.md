@@ -68,7 +68,7 @@ Academic Honors
 * Distinguished Paper Award, Section on Political Sociology, Annual Meeting of the Chinese Sociological Association, 2019
 * Distinguished Paper Award, Section on Social Mentality, Annual Meeting of the Shanghai Sociological Association, 2019
 * National Scholarship for Postgraduates (CNY 20,000), 2019&2020 
-* Excellent Dissertation for Bachelor's degree, Fudan University, 2018
+* Excellent Dissertation for Bachelor's Degree, Fudan University, 2018
    
 Skills
 ======
