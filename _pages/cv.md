@@ -14,12 +14,13 @@ Education
 ======
 * Fudan University 
   * Sep 2018 - Present,  Master of Law in Sociology; GPA: 3.94/4.00 (ranked 1/15)
-  * Sep 2014 - Jun 2018, Bachelor of Law in Sociology; GPA: 3.75/4.00 (ranked 3/77)  
+  * Sep 2014 - Jun 2018, Bachelor of Law in Sociology; GPA: 3.76/4.00 (ranked 3/77)  
   
 Research Interests
 ======
 * Political Sociology: Political Value; Political Participation
 * Sociology of the Internet: Internet Social Mentality; Big Data Analysis  
+* Computational Social Science
   
 Publications
 ======
@@ -79,5 +80,5 @@ Skills
 * Language
   * English(Fluent), Chinese(Native)
   
-Version: Nov 12th,2020
+Version: Nov 23th,2020
   
