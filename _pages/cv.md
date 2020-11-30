@@ -54,6 +54,11 @@ Research Experiences
   *Master’s Thesis: Features and Changes of Chinse Cyber Nationalism*
   * Analyzed features of Chinese cyber nationalism on Weibo with an original dataset of more than 150,000 Weibos using machine learning and social network analysis.
   * Results showed cyber nationalism which is rising recently has generated stable differentiation inside. Argued differentiation of cyber nationalism is shaped by diverse social forces, including official mobilization and traditional legacy. 
+
+* Mar 2019 - Nov 2020, Research Assistant
+  *Youth Social Mentality Program*
+  * Randomly sampled more than 3000 youth Weibo users and scraped about 3 million posts of these users with Python.
+  * Extracted posts related to political identity using machine learning first, and then explored youth's political values with the extracted dataset. 
   
 * Oct 2018 – Dec 2018, Research Assistant  
   *Center of State Governance and Communication Research, Fudan University*
