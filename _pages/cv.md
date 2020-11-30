@@ -70,7 +70,18 @@ Academic Honors
 * Distinguished Paper Award, Section on Social Mentality, Annual Meeting of the Shanghai Sociological Association, 2019
 * National Scholarship for Postgraduates (CNY 20,000), 2019&2020 
 * Excellent Dissertation for Bachelor's Degree, Fudan University, 2018
-   
+
+Other Awards
+======
+* Outstanding Graduate, Fudan University, 2018
+* Distinguished Student Leader Award, Fudan University, 2017
+
+Student Leadership 
+======
+* President, Student Union in SSDPP at Fudan University, 2017
+* Director of New Media Center, Fudan Weekly, 2015-2017
+* Member, Fudan Debate Team, 2015-2016
+
 Skills
 ======
 * Programming and Statistical Software
@@ -80,5 +91,4 @@ Skills
 * Language
   * English(Fluent), Chinese(Native)
   
-Version: Nov 23th,2020
-  
+Version: Nov 30th,2020
