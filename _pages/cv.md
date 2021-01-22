@@ -98,4 +98,4 @@ Skills
 * Language
   * English(Fluent), Chinese(Native)
   
-Version: Nov 30th,2020
+Version: Jan 22nd,2021
