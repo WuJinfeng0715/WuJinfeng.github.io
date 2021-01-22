@@ -34,6 +34,8 @@ Working Papers
 ======
 * Wu, Jinfeng & Huang, Ronggui. (in preparation). Economic Development, Marketization and Citizens’ Political Trust in Local Government
 * Wu, Jinfeng. (in preparation). The Diversity and Changes of Chinese Cyber Patriotism
+* Du, Shichao; Wu, Jinfeng; Liu, Baichuan. (in preparation). Narrated Rurality: How Rural Discourses Shape Inequality in China?
+    ** Research proposal was accepted by Chinese Sociological Review
 
 Conference Articles
 ======
