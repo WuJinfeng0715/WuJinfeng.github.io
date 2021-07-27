@@ -26,19 +26,20 @@ Publications
 ======
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2020). Chinese Netizens’ Worldview towards Social Fairness in the Internet Field: A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Journal of Sociological Studies, (3), 132-153. (In Chinese) [Abstract](https://www.jikan.com.cn/iedolDetail/2079113)
 * Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (2020). Network Mirroring of the New Era and Its Social Meaning. Journal of Lanzhou University (Social Sciences), 48(5), 138-143. (In Chinese) [CSSCI] [Abstract](https://kns.cnki.net/kcms/detail/detail.aspx?filename=LDSK202005017&dbcode=CJFQ&dbname=CJFDTEMP&v=F66xOxab574x29y%mmd2BNJ0KKk85QkVeKzwM2HJWS1JCDkNLEEtdRqugmh7RXJPfjYx1)
+* Wu, Jinfeng; Huang, Ronggui. (Under Review). Varieties of Chinese Online Nationalism and Their Expression in Online Community. Journalism & Communication. (In Chinese) [CSSCI]
 * Huang, Ronggui; Wu Jinfeng & Gui, Yong. (Under Review). Internet Social Mentality: Key Features; Theoretical Perspectives and Research Topics. Sociological Review of China. (In Chinese) [CSSCI]
 
 CSSCI indicates “Chinese Social Science Citation Index”.
 
 Working Papers
 ======
-* Wu, Jinfeng & Huang, Ronggui. (in preparation). Economic Development, Marketization and Citizens’ Political Trust in Local Government
-* Wu, Jinfeng. (in preparation). The Diversity and Changes of Chinese Cyber Patriotism
+* Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (in preparation). The Changes of Chinese people's Belief Network (1990-2018)
 * Du, Shichao; Wu, Jinfeng; Liu, Baichuan. (in preparation). Narrated Rurality: How Rural Discourses Shape Inequality in China?
-  * *The Research proposal was accepted by Chinese Sociological Review*
 
 Conference Articles
 ======
+* Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (2021). The Changes of Chinese people's Belief Network (1990-2018). Annual Meeting of the Chinese Sociological Association
+  * *This paper won Distinguished Paper Award in Annual Meeting of the Chinese Sociological Association*
 * Huang, Ronggui; Wu Jinfeng & Gui, Yong. (2020). Internet Social Mentality: New Development of Social Mentality Research in the Internet Age. Annual Meeting of the Chinese Sociological Association
 * Wu, Jinfeng. (2020). Changes of Materialist Values in Chinese Society during 1995-2012: An Exploratory Study Based on APC Model. Annual Meeting of the Chinese Sociological Association
 * Wu, Jinfeng. (2019). The Differentiation Impact of Marketization on Citizens' Trust in Local Government: Based on the Perspective of Development Performance. Annual Meeting of the Shanghai Sociological Association
@@ -52,7 +53,7 @@ Conference Articles
 
 Research Experiences
 ======
-* July 2019 - Present, Independent research  
+* July 2019 - Jun 2021, Independent research  
   *Master’s Thesis: Features and Changes of Chinse Cyber Nationalism*
   * Analyzed features of Chinese cyber nationalism on Weibo with an original dataset of more than 150,000 Weibos using machine learning and social network analysis.
   * Results showed cyber nationalism which is rising recently has generated stable differentiation inside. Argued differentiation of cyber nationalism is shaped by diverse social forces, including official mobilization and traditional legacy. 
@@ -73,6 +74,7 @@ Research Experiences
   
 Academic Honors
 ======
+* Distinguished Paper Award, Section on Social Network and Social Capital, Annual Meeting of the Chinese Sociological Association, 2021
 * Distinguished Paper Award, Section on Political Sociology, Annual Meeting of the Chinese Sociological Association, 2019
 * Distinguished Paper Award, Section on Social Mentality, Annual Meeting of the Shanghai Sociological Association, 2019
 * National Scholarship for Postgraduates (CNY 20,000), 2019&2020 
@@ -80,6 +82,7 @@ Academic Honors
 
 Other Awards
 ======
+* Outstanding Graduate, Shanghai, 2021
 * Outstanding Graduate, Fudan University, 2018
 * Distinguished Student Leader Award, Fudan University, 2017
 
@@ -98,4 +101,4 @@ Skills
 * Language
   * English(Fluent), Chinese(Native)
   
-Version: Jan 22nd,2021
+Version: Jul 27th,2021
