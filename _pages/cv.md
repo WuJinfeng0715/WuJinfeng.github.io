@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * The Hong Kong University of Science and Technology
-  * Sep 2021 - Present, Mphil in Social Science
+  * Sep 2021 - Present, MPhil in Social Science
 * Fudan University 
   * Sep 2018 - Jun 2021, Master of Law in Sociology; GPA: 3.94/4.00 (ranked 1/15)
   * Sep 2014 - Jun 2018, Bachelor of Law in Sociology; GPA: 3.76/4.00 (ranked 3/77)  
