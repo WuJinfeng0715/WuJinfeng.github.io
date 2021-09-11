@@ -36,6 +36,7 @@ CSSCI indicates “Chinese Social Science Citation Index”.
 Working Papers
 ======
 * Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (in preparation). The Changes of Chinese people's Belief Network (1990-2018)
+* Huang，Ronggui；Wu，Jinfeng；Gui，Yong. (in preparation). Three facets of Chinese people's democratic understanding. 
 * Du, Shichao; Wu, Jinfeng; Liu, Baichuan. (in preparation). Narrated Rurality: How Rural Discourses Shape Inequality in China?
 
 Conference Articles
@@ -103,4 +104,4 @@ Skills
 * Language
   * English(Fluent), Chinese(Native)
   
-Version: Jul 27th,2021
+Version: 11 Sep,2021
