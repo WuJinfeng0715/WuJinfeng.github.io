@@ -14,8 +14,10 @@ Education
 ======
 * The Hong Kong University of Science and Technology
   * Sep 2021 - Present, MPhil in Social Science
+    ** Supervisor: Prof.Yongshun CAI
 * Fudan University 
   * Sep 2018 - Jun 2021, Master of Law in Sociology; GPA: 3.94/4.00 (ranked 1/15)
+    ** Supervisor: Prof.Ronggui Huang
   * Sep 2014 - Jun 2018, Bachelor of Law in Sociology; GPA: 3.76/4.00 (ranked 3/77)  
   
 Research Interests
