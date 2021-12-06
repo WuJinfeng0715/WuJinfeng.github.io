@@ -3,7 +3,7 @@ layout: archive
 title: ""
 permalink: /cv/
 author_profile: true
-redirect_from:
+redirect_from: 
   - /resume
 ---
 
@@ -14,7 +14,7 @@ Education
 ======
 * The Hong Kong University of Science and Technology
   * Sep 2021 - Present, MPhil in Social Science
-    * Supervisor: Prof.Yongshun CAI
+    * Supervisor: Prof.Yongshun CAI & Prof.Dong ZHANG
 * Fudan University 
   * Sep 2018 - Jun 2021, Master of Law in Sociology; GPA: 3.94/4.00 (ranked 1/15)
     * Supervisor: Prof.Ronggui HUANG
@@ -106,4 +106,4 @@ Skills
 * Language
   * English(Fluent), Chinese(Native)
   
-Version: 11 Sep,2021
+Version: 06 Dec,2021
