@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * The Hong Kong University of Science and Technology
-  * Sep 2021 - Present, MPhil in Social Science
+  * Sep 2021 - Present, MPhil in Social Science, GPA: 3.85/4.30
     * Supervisor: Prof.Yongshun CAI & Prof.Dong ZHANG
 * Fudan University 
   * Sep 2018 - Jun 2021, Master of Law in Sociology; GPA: 3.94/4.00 (ranked 1/15)
