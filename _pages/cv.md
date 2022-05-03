@@ -29,7 +29,7 @@ Research Interests
 Publications
 ======
 * Huang, Ronggui; Wu Jinfeng & Gui, Yong. (2022). Internet Social Mentality: Key Features; Theoretical Perspectives and Research Topics. Sociological Review of China. (In Chinese) [CSSCI]
-* Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2020). Chinese Netizens’ Worldview towards Social Fairness in the Internet Field: A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Journal of Sociological Studies, (3), 132-153. (In Chinese) [Abstract](https://www.jikan.com.cn/iedolDetail/2079113)
+* Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2020). Chinese Netizens’ Worldview towards Social Fairness in the Internet Field: A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Journal of Sociological Studies, (3), 132-153. (In Chinese) [Abstract](https://www.jikan.com.cn/aD/a?id=2079113&pN=%25E6%25A3%2580%25E7%25B4%25A2%25E7%25BB%2593%25E6%259E%259C%25E9%25A1%25B5)
 * Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (2020). Network Mirroring of the New Era and Its Social Meaning. Journal of Lanzhou University (Social Sciences), 48(5), 138-143. (In Chinese) [CSSCI] [Abstract](https://kns.cnki.net/kcms/detail/detail.aspx?filename=LDSK202005017&dbcode=CJFQ&dbname=CJFDTEMP&v=F66xOxab574x29y%mmd2BNJ0KKk85QkVeKzwM2HJWS1JCDkNLEEtdRqugmh7RXJPfjYx1)
 * Wu, Jinfeng; Huang, Ronggui. (Under Review). Varieties of Chinese Online Nationalism and Their Expression in Online Community. Journalism Review. (In Chinese) [CSSCI]
 * Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (in preparation). The Changes of Chinese people's Belief Network (1990-2018). Academic Monthly. (In Chinese) [CSSCI] 
