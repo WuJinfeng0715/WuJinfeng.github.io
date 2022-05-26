@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <font size="3">
-Jinfeng Wu is a MPhil student in Social Science at the Hong Kong University of Science and Technology. His primary research interest lies in political sociology and sociology of the Internet. Currently, he is studying on the origins and characteristic of Chinese people's political or cultural values.<br>
+Jinfeng Wu is a MPhil student in Social Science Division at the Hong Kong University of Science and Technology. His primary research interest lies in political sociology and sociology of the Internet. Currently, he is studying on the origins and characteristic of Chinese people's political or cultural values.<br>
 <br>
 For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">English cv-page</a> or download <a href="https://wujinfeng0715.github.io//files/CV-JinfengWu-20211206.pdf"> cv file (brief version)</a>.<br>
 <br>
