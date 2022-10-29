@@ -40,7 +40,7 @@ CSSCI indicates “Chinese Social Science Citation Index”.
 
 Working Papers
 ======
-* Huang, Ronggui；Wu, Jinfeng；Gui, Yong. (in preparation). Three Facets of Chinese people's Democratic Understanding. 
+* Huang, Ronggui; Wu, Jinfeng; Gui, Yong. (in preparation). Three Facets of Chinese people's Democratic Understanding. 
 * Du, Shichao; Wu, Jinfeng. (in preparation). Narrated Rurality: How Rural Discourses Shape Inequality in China?
 
 Conference Articles
