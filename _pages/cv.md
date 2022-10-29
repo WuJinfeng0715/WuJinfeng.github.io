@@ -122,4 +122,4 @@ Skills
 * Language
   * Mandarin (Native), English (Fluent), Hokkien (Native)
   
-Version: 29 Oct,2022
+Version: 29 Oct, 2022
