@@ -62,25 +62,32 @@ Conference Articles
 
 Research Experiences
 ======
-* July 2019 - Jun 2021, Independent research  
-  *Master’s Thesis: Features and Changes of Chinse Cyber Nationalism*
-  * Analyzed features of Chinese cyber nationalism on Weibo with an original dataset of more than 150,000 Weibos using machine learning and social network analysis.
-  * Results showed cyber nationalism which is rising recently has generated stable differentiation inside. Argued differentiation of cyber nationalism is shaped by diverse social forces, including official mobilization and traditional legacy. 
+* Apr 2021 - Present, Changes of Public Opinions in China: Pattern and Causes
+  *Cooperating with Scholars from Fudan University*
+  * Applied the Belief Network Analysis method in exploring the value transition in China from 1990 to 2018 with 6 rounds of WVS data. Developed the theory of cultural schema to explain how macro socioeconomic conditions affect people’s individual attitudes and behaviors.
+  * Used the Age-Period-Cohort modeling to detect the resilience of Chinese traditional values in the economic recession and post-globalization era. 
+
+* Aug 2019 - Present, Features and Changes of Chinse Online Nationalism  
+  *Cooperating with Prof. Huang Ronggui (FDU) and Dr. Li Linda (Oxford)*
+  * Analyzed features of Chinese cyber nationalism on Weibo with an original dataset of more than 150,000 Weibos using machine learning and social network analysis. Results showed that the rising online nationalists employed diverse ideological resources to explain the concept of nation, and in this process, different online communities with different structures and framing styles emerged. 
+  * From September 2022, we have begun to build a dataset of nationalism KOL using the snowball sampling method. With this dataset, we aim to investigate the emergence and evolution of Chinese online nationalism. 
 
 * Mar 2019 - Nov 2020, Research Assistant  
   *Youth Social Mentality Program*
   * Randomly sampled more than 3000 youth Weibo users and scraped about 3 million posts of these users with Python.
   * Extracted posts related to political identity using machine learning first, and then explored youth's political values with the extracted dataset. 
   
-* Oct 2018 – Dec 2018, Research Assistant  
+* Oct 2018 – Aug 2019, Research Assistant  
   *Center of State Governance and Communication Research, Fudan University*
   * Conducted data analysis and visualization with social media big data, using semantic network method with Gephi. 
   * Drafted reports describing netizens’ political values, with results published by newspapers (e.g. People's Daily) in China.
+  * As a team member, I helped to apply for the Chinese National Grant in Social Science. 
   
 * Oct 2017 – Aug 2018, Research Assistant  
   *Social Mentality of Thousand People Program*
-  * Coded ~1000 interview materials related to Chinese political values. Proposed one typology to distinguish three types of political values to explain coexistence of high political trust and rising democratic requirement in mainland China.
-  
+  * Coded 150 interview materials related to Chinese political values and developed a typology to distinguish three types of democratic understandings. 
+  * Applied the typology in coding ~ 1000 interview materials and analyzed the nexus between people’s social backgrounds and their democratic understandings. 
+
 Academic Honors
 ======
 * Distinguished Paper Award, Section on Social Network and Social Capital, Annual Meeting of the Chinese Sociological Association, 2021
@@ -95,6 +102,11 @@ Other Awards
 * Outstanding Graduate, Fudan University, 2018
 * Distinguished Student Leader Award, Fudan University, 2017
 
+Teaching Experiences
+======
+* Understanding Society, Teaching Assistant at HKUST, Spring 2022
+* Quantitative Methods in Social Science Research, Teaching Assistant at Fudan University, Spring 2021
+
 Student Leadership 
 ======
 * President, Student Union in SSDPP at Fudan University, 2017
@@ -106,8 +118,8 @@ Skills
 * Programming and Statistical Software
   * Python, R, Stata
 * Research Methods
-  * Quantitative Analysis (e.g. Causal Inference); Big Data Analysis (e.g. Data Scraping; Machine Learning)
+  * Quantitative Analysis (e.g., Regression Analysis; Causal Inference); Big Data Analysis (e.g., Data Scraping; Machine Learning)
 * Language
-  * English(Fluent), Chinese(Native)
+  * Mandarin (Native), English (Fluent), Hokkien (Native)
   
-Version: 01 May,2022
+Version: 29 Oct,2022
