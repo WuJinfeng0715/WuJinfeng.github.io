@@ -15,6 +15,8 @@ Education
 * The Hong Kong University of Science and Technology
   * Sep 2021 - Present, MPhil in Social Science, GPA: 3.85/4.30
     * Supervisor: Prof.Yongshun CAI & Prof.Dong ZHANG
+* National University of Singapre
+  * Aug 2016 - Dec 2016, Exchange Student
 * Fudan University 
   * Sep 2018 - Jun 2021, Master of Law in Sociology; GPA: 3.94/4.00 (ranked 1/15)
     * Supervisor: Prof.Ronggui HUANG
@@ -23,27 +25,29 @@ Education
 Research Interests
 ======
 * Political Sociology: Political Value; Political Participation
-* Sociology of the Internet: Internet Social Mentality; Big Data Analysis  
+* Sociology of the Internet: Ideologies in the Social Media Platforms, Social Media 
 * Computational Social Science
   
 Publications
 ======
+* Wu, Jinfeng; Huang, Ronggui. (Accepted). Varieties of Chinese Online Nationalism in Online Community. Journalism Review. (In Chinese) [CSSCI]
+* Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (Under Review). Changes in Chinese People's Belief Network (1990-2018). Journal of Social Development. (In Chinese) [CSSCI] 
 * Huang, Ronggui; Wu Jinfeng & Gui, Yong. (2022). Internet Social Mentality: Key Features; Theoretical Perspectives and Research Topics. Sociological Review of China. (In Chinese) [CSSCI] [Abstract](http://src.ruc.edu.cn/CN/abstract/abstract426.shtml#)
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2020). Chinese Netizens’ Worldview towards Social Fairness in the Internet Field: A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Journal of Sociological Studies, (3), 132-153. (In Chinese) [Abstract](https://www.jikan.com.cn/aD/a?id=2079113&pN=%25E6%25A3%2580%25E7%25B4%25A2%25E7%25BB%2593%25E6%259E%259C%25E9%25A1%25B5)
 * Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (2020). Network Mirroring of the New Era and Its Social Meaning. Journal of Lanzhou University (Social Sciences), 48(5), 138-143. (In Chinese) [CSSCI] [Abstract](https://kns.cnki.net/kcms/detail/detail.aspx?filename=LDSK202005017&dbcode=CJFQ&dbname=CJFDTEMP&v=F66xOxab574x29y%mmd2BNJ0KKk85QkVeKzwM2HJWS1JCDkNLEEtdRqugmh7RXJPfjYx1)
-* Wu, Jinfeng; Huang, Ronggui. (Under Review). Varieties of Chinese Online Nationalism and Their Expression in Online Community. Journalism Review. (In Chinese) [CSSCI]
-* Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (in preparation). The Changes of Chinese people's Belief Network (1990-2018). Academic Monthly. (In Chinese) [CSSCI] 
 
 CSSCI indicates “Chinese Social Science Citation Index”.
 
 Working Papers
 ======
 * Huang, Ronggui；Wu, Jinfeng；Gui, Yong. (in preparation). Three facets of Chinese people's democratic understanding. 
-* Du, Shichao; Wu, Jinfeng; Liu, Baichuan. (in preparation). Narrated Rurality: How Rural Discourses Shape Inequality in China?
+* Du, Shichao; Wu, Jinfeng. (in preparation). Narrated Rurality: How Rural Discourses Shape Inequality in China?
 
 Conference Articles
 ======
-* Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (2021). The Changes of Chinese people's Belief Network (1990-2018). Annual Meeting of the Chinese Sociological Association
+* Wu, Jinfeng and Huang, Ronggui. (2023). Varieties of Chinese Cyber Nationalism in Online Communities. Association for Asian Studies 2023 Annual Conference. Boston
+* Wu, Jinfeng and Xu, Muyao. (2022). China’s Social Volcano Revisited: Unfair Treatment due to Income Inequality and Political Evaluations in China. International Chinese Sociology Association 2022 Annual Conference. Guangzhou
+* Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (2021). Changes in Chinese people's Belief Network (1990-2018). Annual Meeting of the Chinese Sociological Association
   * *This paper won Distinguished Paper Award in Annual Meeting of the Chinese Sociological Association*
 * Huang, Ronggui; Wu Jinfeng & Gui, Yong. (2020). Internet Social Mentality: New Development of Social Mentality Research in the Internet Age. Annual Meeting of the Chinese Sociological Association
 * Wu, Jinfeng. (2020). Changes of Materialist Values in Chinese Society during 1995-2012: An Exploratory Study Based on APC Model. Annual Meeting of the Chinese Sociological Association
