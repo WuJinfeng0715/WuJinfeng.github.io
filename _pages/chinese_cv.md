@@ -14,6 +14,8 @@ redirect_from:
 * 香港科技大学
   * 2021.09 - 至今，社会科学部，绩点：3.85   
     * 导师：蔡永顺 & 张冬    
+* 新加坡国立大学 
+  * 2016.08-2016.12，交换生
 * 复旦大学
   * 2018.09 - 2021.06，法学硕士学位（社会学专业），绩点：3.94 （排名 1/15）
     * 导师：黄荣贵   
@@ -22,24 +24,27 @@ redirect_from:
 研究方向
 ======
 * 政治社会学：政治文化、政治参与
-* 网络社会学：网络社会心态、大数据分析方法
+* 网络社会学：网络社会心态、社交媒体
 * 计算社会科学
   
 期刊论文
 ======
+* 吴锦峰、黄荣贵，即将出版，《网络民族主义的社群化表达及其思潮特征》，《新闻记者》 \[CSSCI]
+* 田丰、吴锦峰、王杨聿，正在审稿，《中国人价值观念网络的变迁（1990-2018），《社会发展研究》 \[CSSCI]
 * 黄荣贵、吴锦峰、桂勇，2022，《网络社会心态：核心特征、分析视角及研究议题》，《社会学评论》 \[CSSCI] [摘要](http://src.ruc.edu.cn/CN/abstract/abstract426.shtml#)
 * 吴锦峰、黄荣贵、桂勇，2020，《社会公平观的网络镜像——基于2013-2018年微博博文的语义网分析》，《社会学刊》第3期 [摘要](https://www.jikan.com.cn/aD/a?id=2079113&pN=%25E6%25A3%2580%25E7%25B4%25A2%25E7%25BB%2593%25E6%259E%259C%25E9%25A1%25B5)
 * 郑雯、吴锦峰、胡佳丰，2020，《“新时代”的网络镜像及其社会性意涵》，《兰州大学学报（社会科学版）》第5期：138-143 \[CSSCI] [摘要](https://kns.cnki.net/kcms/detail/detail.aspx?filename=LDSK202005017&dbcode=CJFQ&dbname=CJFDTEMP&v=F66xOxab574x29y%mmd2BNJ0KKk85QkVeKzwM2HJWS1JCDkNLEEtdRqugmh7RXJPfjYx1)
-* 吴锦峰、黄荣贵，正在审稿，《网络民族主义的社群化表达及其思潮特征》，《新闻记者》 \[CSSCI]
-* 田丰、吴锦峰、王杨聿，正在审稿，中国人价值观网络的变迁（1990-2018），《学术月刊》 \[CSSCI]
 
 工作论文
 ======
-* 黄荣贵、吴锦峰、桂勇，工作论文，民主价值观的三重面相
-* 杜世超、吴锦峰、刘佰川，工作论文，农村物语：城乡不平等的话语生成
+* Huang, Ronggui; Wu, Jinfeng; Gui, Yong. Three Facets of Chinese People's Democratic Understanding.
+* Du, Shichao; Wu, Jinfeng. Narrated Rurality: How Rural Discourses Shape Inequality in China?
 
 会议论文
 ======
+* Wu, Jinfeng and Huang, Ronggui. 2023. Varieties of Chinese Cyber Nationalism in Online Communities. Association for
+Asian Studies 2023 Annual Conference. Boston
+* Wu, Jinfeng and Xu, Muyao. 2022. China’s Social Volcano Revisited: Unfair Treatment due to Income Inequality and Political Evaluations in China. International Chinese Sociology Association 2022 Annual Conference. Guangzhou
 * 田丰、吴锦峰、王杨聿，2021，中国人价值观网络的变迁（1990-2018），中国社会学会2021年学术年会（社会网络与社会资本分论坛），7月18日，重庆
   * *该论文获评2019年中国社会学年会优秀论文（一等奖）* 
 * 黄荣贵、吴锦峰、桂勇，2020，《网络社会心态：网络时代社会心态研究的新动向》，中国社会学会2020年学术年会（网络社会学分论坛），11月7日，线上论坛
