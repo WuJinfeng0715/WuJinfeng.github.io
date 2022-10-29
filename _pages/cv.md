@@ -73,7 +73,7 @@ Research Experiences
   * From September 2022, we have begun to build a dataset of nationalism KOL using the snowball sampling method. With this dataset, we aim to investigate the emergence and evolution of Chinese online nationalism. 
 
 * Mar 2019 - Nov 2020, Research Assistant  
-  *Youth Social Mentality Program*
+  *Youth Social Mentality Program，Fudan University & Shanghai International Studies University*
   * Randomly sampled more than 3000 youth Weibo users and scraped about 3 million posts of these users with Python.
   * Extracted posts related to political identity using machine learning first, and then explored youth's political values with the extracted dataset. 
   
