@@ -62,7 +62,7 @@ Conference Articles
 
 Research Experiences
 ======
-* Apr 2021 - Present, Changes of Public Opinions in China: Pattern and Causes
+* Apr 2021 - Present, Changes of Public Opinions in China: Pattern and Causes  
   *Cooperating with Scholars from Fudan University*
   * Applied the Belief Network Analysis method in exploring the value transition in China from 1990 to 2018 with 6 rounds of WVS data. Developed the theory of cultural schema to explain how macro socioeconomic conditions affect people’s individual attitudes and behaviors.
   * Used the Age-Period-Cohort modeling to detect the resilience of Chinese traditional values in the economic recession and post-globalization era. 
