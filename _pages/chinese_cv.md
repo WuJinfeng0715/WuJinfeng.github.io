@@ -42,8 +42,7 @@ redirect_from:
 
 会议论文
 ======
-* Wu, Jinfeng and Huang, Ronggui. 2023. Varieties of Chinese Cyber Nationalism in Online Communities. Association for
-Asian Studies 2023 Annual Conference. Boston
+* Wu, Jinfeng and Huang, Ronggui. 2023. Varieties of Chinese Cyber Nationalism in Online Communities. Association for Asian Studies 2023 Annual Conference. Boston
 * Wu, Jinfeng and Xu, Muyao. 2022. China’s Social Volcano Revisited: Unfair Treatment due to Income Inequality and Political Evaluations in China. International Chinese Sociology Association 2022 Annual Conference. Guangzhou
 * 田丰、吴锦峰、王杨聿，2021，中国人价值观网络的变迁（1990-2018），中国社会学会2021年学术年会（社会网络与社会资本分论坛），7月18日，重庆
   * *该论文获评2019年中国社会学年会优秀论文（一等奖）* 
@@ -60,7 +59,11 @@ Asian Studies 2023 Annual Conference. Boston
 
 研究经历
 ======
-* 2019年8月-2021年6月，硕士论文，网络民族主义：特征与演变
+* 2021年4月-至今，项目负责人，中国社会的观念转型：模式与动力  
+  * 利用观念网络分析（Belief Network Analysis）的方法，结合6期WVS数据分析中国社会自1990年至2018年的观念变迁趋势，并引入文化范式的理论视角解释宏观社会环境对个体行为的影响路径。
+  * 利用年龄-时期-世代（APC）的分析方式，分析在经济倒退与全球化逆行背景下的传统观念韧性。
+
+* 2019年8月-至今，项目负责人，网络民族主义：特征与演变
   * 通过Python爬取了15万条与网络民族主义相关的微博文本，并利用监督学习与社会网络方法进行数据分析，以研究网络民族主义的特征与演变。
   * 结果发现，网络民族主义今年来持续升温，并呈现出了稳定的内部分化。网络民族主义的分化反映了多方社会力量，如国家动员、革命文化遗产的塑造作用。
 
