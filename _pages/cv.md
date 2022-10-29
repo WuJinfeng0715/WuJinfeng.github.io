@@ -100,6 +100,7 @@ Other Awards
 ======
 * Outstanding Graduate, Shanghai, 2021
 * Outstanding Graduate, Fudan University, 2018
+* All-Round Development Student, Zhide College, Fudan University, 2018
 * Distinguished Student Leader Award, Fudan University, 2017
 
 Teaching Experiences
