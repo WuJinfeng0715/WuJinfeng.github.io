@@ -13,14 +13,14 @@ redirect_from:
 Education
 ======
 * The Hong Kong University of Science and Technology
-  * Sep 2021 - Present, MPhil in Social Science, GPA: 3.85/4.30
+  * Sept. 2021 - Present, MPhil in Social Science, GPA: 3.85/4.30
     * Supervisor: Prof.Yongshun CAI & Prof.Dong ZHANG
-* National University of Singapore
-  * Aug 2016 - Dec 2016, Exchange Student
 * Fudan University 
-  * Sep 2018 - Jun 2021, Master of Law in Sociology; GPA: 3.94/4.00 (ranked 1/15)
+  * Sept. 2018 - June. 2021, Master of Law in Sociology; GPA: 3.94/4.00 (ranked 1/15)
     * Supervisor: Prof.Ronggui HUANG
-  * Sep 2014 - Jun 2018, Bachelor of Law in Sociology; GPA: 3.76/4.00 (ranked 3/77)  
+  * Sept. 2014 - June. 2018, Bachelor of Law in Sociology; GPA: 3.76/4.00 (ranked 3/77)  
+* National University of Singapore  
+  * Aug. 2016 - Dec. 2016, Exchange Student
   
 Research Interests
 ======
@@ -30,8 +30,8 @@ Research Interests
   
 Publications
 ======
+* Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (Under Review). Changes in Chinese People's Belief Network (1990-2018). Journal of Social Development. (In Chinese) [CSSCI]   
 * Wu, Jinfeng; Huang, Ronggui. (Accepted). Varieties of Chinese Online Nationalism in Online Community. Journalism Review. (In Chinese) [CSSCI]
-* Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (Under Review). Changes in Chinese People's Belief Network (1990-2018). Journal of Social Development. (In Chinese) [CSSCI] 
 * Huang, Ronggui; Wu Jinfeng & Gui, Yong. (2022). Internet Social Mentality: Key Features; Theoretical Perspectives and Research Topics. Sociological Review of China. (In Chinese) [CSSCI] [Abstract](http://src.ruc.edu.cn/CN/abstract/abstract426.shtml#)
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2020). Chinese Netizens’ Worldview towards Social Fairness in the Internet Field: A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Journal of Sociological Studies, (3), 132-153. (In Chinese) [Abstract](https://www.jikan.com.cn/aD/a?id=2079113&pN=%25E6%25A3%2580%25E7%25B4%25A2%25E7%25BB%2593%25E6%259E%259C%25E9%25A1%25B5)
 * Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (2020). Network Mirroring of the New Era and Its Social Meaning. Journal of Lanzhou University (Social Sciences), 48(5), 138-143. (In Chinese) [CSSCI] [Abstract](https://kns.cnki.net/kcms/detail/detail.aspx?filename=LDSK202005017&dbcode=CJFQ&dbname=CJFDTEMP&v=F66xOxab574x29y%mmd2BNJ0KKk85QkVeKzwM2HJWS1JCDkNLEEtdRqugmh7RXJPfjYx1)
@@ -62,28 +62,28 @@ Conference Articles
 
 Research Experiences
 ======
-* Apr 2021 - Present, Changes of Public Opinions in China: Pattern and Causes  
+* Apr. 2021 - Present, Changes of Public Opinions in China: Pattern and Causes  
   *Cooperating with Scholars from Fudan University*
   * Applied the Belief Network Analysis method in exploring the value transition in China from 1990 to 2018 with 6 rounds of WVS data. Developed the theory of cultural schema to explain how macro socioeconomic conditions affect people’s individual attitudes and behaviors.
   * Used the Age-Period-Cohort modeling to detect the resilience of Chinese traditional values in the economic recession and post-globalization era. 
 
-* Aug 2019 - Present, Features and Changes of Chinse Online Nationalism  
+* Aug. 2019 - Present, Features and Changes of Chinse Online Nationalism  
   *Cooperating with Prof. Huang Ronggui (FDU) and Dr. Li Linda (Oxford)*
   * Analyzed features of Chinese cyber nationalism on Weibo with an original dataset of more than 150,000 Weibos using machine learning and social network analysis. Results showed that the rising online nationalists employed diverse ideological resources to explain the concept of nation, and in this process, different online communities with different structures and framing styles emerged. 
   * From September 2022, we have begun to build a dataset of nationalism KOL using the snowball sampling method. With this dataset, we aim to investigate the emergence and evolution of Chinese online nationalism. 
 
-* Mar 2019 - Nov 2020, Research Assistant  
+* Mar. 2019 - Nov. 2020, Research Assistant  
   *Youth Social Mentality Program，Fudan University & Shanghai International Studies University*
   * Randomly sampled more than 3000 youth Weibo users and scraped about 3 million posts of these users with Python.
   * Extracted posts related to political identity using machine learning first, and then explored youth's political values with the extracted dataset. 
   
-* Oct 2018 – Aug 2019, Research Assistant  
+* Oct. 2018 – Aug. 2019, Research Assistant  
   *Center of State Governance and Communication Research, Fudan University*
   * Conducted data analysis and visualization with social media big data, using semantic network method with Gephi. 
   * Drafted reports describing netizens’ political values, with results published by newspapers (e.g. People's Daily) in China.
-  * As a team member, I helped to apply for the Chinese National Grant in Social Science. 
+  * As a team member, I facilitated the application of the Chinese National Grant in Social Science by writing a comprehensive literature review.
   
-* Oct 2017 – Aug 2018, Research Assistant  
+* Oct. 2017 – Aug. 2018, Research Assistant  
   *Social Mentality of Thousand People Program*
   * Coded 150 interview materials related to Chinese political values and developed a typology to distinguish three types of democratic understandings. 
   * Applied the typology in coding ~ 1000 interview materials and analyzed the nexus between people’s social backgrounds and their democratic understandings. 
@@ -123,4 +123,4 @@ Skills
 * Language
   * Mandarin (Native), English (Fluent), Hokkien (Native)
   
-Version: 29 Oct, 2022
+Version: 30 Oct, 2022
