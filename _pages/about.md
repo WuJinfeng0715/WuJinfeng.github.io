@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <font size="3">
-Welcome to my homepage! I am an MPhil student in Social Science at the Social Science Division, Hong Kong University of Science and Technology. My research interests include Political sociology and the Sociology of the Internet. My previous projects explored the features, transitions, and causes of Chinese public opinion, with three focuses, including typological analysis, online ideology, and cultural transition. Currently, I am exploring how different regimes manipulate people’s political preferences with strategies of informational control.  <br>
+Welcome to my homepage! I am an MPhil student in Social Science at the Social Science Division, Hong Kong University of Science and Technology. My research interests include Political sociology and the Sociology of the Internet. My previous projects explored the features, transitions, and causes of Chinese public opinion, with three focuses, including typological analysis, online ideology, and cultural transition. Currently, I am exploring how different regimes manipulate people’s political preferences with strategies of information control.  <br>
 <br>
 For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">English cv-page</a> or download <a href="https://wujinfeng0715.github.io//files/CV-JinfengWu-20221030.pdf"> cv file </a>.<br>
 <br>
