@@ -32,6 +32,7 @@ redirect_from:
 * 田丰、吴锦峰、王杨聿，正在审稿，《中国人价值观念网络的变迁（1990-2018）》，《社会发展研究》 \[CSSCI]
 * 吴锦峰、黄荣贵，2022，《网络民族主义的社群化表达及其思潮特征》，《新闻记者》第11期 \[CSSCI]
 * 黄荣贵、吴锦峰、桂勇，2022，《网络社会心态：核心特征、分析视角及研究议题》，《社会学评论》第3期：102-120 \[CSSCI] [摘要](http://src.ruc.edu.cn/CN/abstract/abstract426.shtml#)
+** 全文转载于《中国社会科学文摘》2022年第11期。  
 * 吴锦峰、黄荣贵、桂勇，2020，《社会公平观的网络镜像——基于2013-2018年微博博文的语义网分析》，《社会学刊》第3期：132-153 [摘要](https://www.jikan.com.cn/aD/a?id=2079113&pN=%25E6%25A3%2580%25E7%25B4%25A2%25E7%25BB%2593%25E6%259E%259C%25E9%25A1%25B5)
 * 郑雯、吴锦峰、胡佳丰，2020，《“新时代”的网络镜像及其社会性意涵》，《兰州大学学报（社会科学版）》第5期：138-143 \[CSSCI] [摘要](https://kns.cnki.net/kcms/detail/detail.aspx?filename=LDSK202005017&dbcode=CJFQ&dbname=CJFDTEMP&v=F66xOxab574x29y%mmd2BNJ0KKk85QkVeKzwM2HJWS1JCDkNLEEtdRqugmh7RXJPfjYx1)
   
