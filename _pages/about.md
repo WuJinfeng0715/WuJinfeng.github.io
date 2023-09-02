@@ -25,6 +25,7 @@ Recent News
 <html>
   <table style="margin-left:auto; margin-right:auto;">
     <tr>
+    border: none!important;
       <td>
       Aug 2023: Pass my <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens">MPhil Thesis Defense</a> at the HKUST. 
       <img src='/images/500x300.png'>
