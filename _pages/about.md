@@ -23,9 +23,8 @@ For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">
 Recent News
 ======
 <html>
-  <table style="margin-left:auto; margin-right:auto;">
+  <table style="margin-left:auto; margin-right:auto; border:none;">
     <tr>
-    border: none!important;
       <td>
       Aug 2023: Pass my <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens">MPhil Thesis Defense</a> at the HKUST.<br> 
       <img src='/images/MPhil_Defense.png'>
