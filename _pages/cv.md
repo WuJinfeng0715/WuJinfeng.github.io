@@ -32,8 +32,6 @@ Research Interests
   
 Publications
 ======
-<p align="justify">
-
 * Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (Under Review). Changes in Chinese People's Belief Network (1990-2018). Journal of Social Development. (In Chinese) [CSSCI] [Abstract](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=HFYJ202302003&uniplatform=OVERSEA&v=U2eZyMnRyYeWKOGpr2NzHw4araapRChCAurxmklTrrTlUi4pAJKyVq3aCfHIW2m_)   
 * Wu, Jinfeng; Huang, Ronggui. (2022). Varieties of Chinese Online Nationalism in Online Community. Journalism Review, (11), 3-15. (In Chinese) [CSSCI] [Abstract](https://kns.cnki.net/kcms/detail/detail.aspx?filename=XWJZ202211001&dbcode=CJFQ&dbname=DKFXTEMP&v=9xYQTGrRPtNvBcErTPpbQLx1nhMCAYMKAdH6eqip-q7UrultprwKaWY6brpx3A9N)
 * Huang, Ronggui; Wu Jinfeng & Gui, Yong. (2022). Internet Social Mentality: Key Features; Theoretical Perspectives and Research Topics. Sociological Review of China, (3), 102-120. (In Chinese) [CSSCI] [Abstract](http://src.ruc.edu.cn/CN/abstract/abstract426.shtml#)
@@ -41,12 +39,9 @@ Publications
 * Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (2020). Network Mirroring of the New Era and Its Social Meaning. Journal of Lanzhou University (Social Sciences), 48(5), 138-143. (In Chinese) [CSSCI] [Abstract](https://kns.cnki.net/kcms/detail/detail.aspx?filename=LDSK202005017&dbcode=CJFQ&dbname=CJFDTEMP&v=F66xOxab574x29y%mmd2BNJ0KKk85QkVeKzwM2HJWS1JCDkNLEEtdRqugmh7RXJPfjYx1)
 
 CSSCI indicates “Chinese Social Science Citation Index”.
-</p>
 
 Selected Conference Articles
 ======
-<p align="justify">
-
 * Wu, Jinfeng and Huang, Ronggui. (2023). Varieties of Chinese Cyber Nationalism in Online Communities. Association for Asian Studies 2023 Annual Conference. Boston
 * Wu, Jinfeng and Xu, Muyao. (2022). China’s Social Volcano Revisited: Unfair Treatment due to Income Inequality and Political Evaluations in China. International Chinese Sociology Association 2022 Annual Conference. Guangzhou
 * Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (2021). Changes in Chinese people's Belief Network (1990-2018). Annual Meeting of the Chinese Sociological Association
@@ -56,19 +51,15 @@ Selected Conference Articles
 * Wu, Jinfeng. (2019). Economic Development, Marketization and Chinese Citizens’ Political Values. Annual Meeting of the Chinese Sociological Association
   * *This paper won Distinguished Paper Award in Annual Meeting of the Chinese Sociological Association*
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2018). Three Faces of Chinese Citizens’ Political Values: An Exploratory Study Based on Social Mentality of Thousand People Program. Annual Meeting of the Chinese Sociological Association  
-</p>
 
 Academic Honors
 ======
-<p align="justify">
-
 * Red Bird Scholarship (HKD 80,000), 2023
 * Distinguished Paper Award, Section on Social Network and Social Capital, Annual Meeting of the Chinese Sociological Association, 2021
 * Distinguished Paper Award, Section on Political Sociology, Annual Meeting of the Chinese Sociological Association, 2019
 * Distinguished Paper Award, Section on Social Mentality, Annual Meeting of the Shanghai Sociological Association, 2019
 * National Scholarship for Postgraduates (CNY 20,000), 2019&2020 
 * Excellent Dissertation for Bachelor's Degree, Fudan University, 2018
-</p>
 
 Other Awards
 ======
