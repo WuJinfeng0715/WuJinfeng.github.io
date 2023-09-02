@@ -22,16 +22,17 @@ For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">
 
 Recent News
 ======
+
 <html>
   <table style="margin-left:auto; margin-right:auto; border:none;">
     <tr style="margin-left:auto; margin-right:auto; border:none;">
       <td style="margin-left:auto; margin-right:auto; border:none;">
-        Aug 2023: Pass my <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens">MPhil Thesis Defense</a> at the HKUST.
-        <img src='/images/MPhil_Defense.png'>
+      Aug 2023: Pass my <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens">MPhil Thesis Defense</a> at the HKUST.
+      <img src='/images/MPhil_Defense.png'>
       </td>
-        <td style="margin-left:auto; margin-right:auto; border:none;">
-        Jun 2023: Publish <a href="https://chn.oversea.cnki.net/kns/defaultresult/index">a Paper about Chinese Belief Network</a>.
-        <img src='/images/Belief_Network.png'>
+      <td style="margin-left:auto; margin-right:auto; border:none;">
+      Jun 2023: Publish <a href="https://chn.oversea.cnki.net/kns/defaultresult/index">a Paper about Chinese Belief Network</a>.
+      <img src='/images/Belief_Network.png'>
       </td>
     </tr>
   </table>
