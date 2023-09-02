@@ -20,7 +20,8 @@ For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">
 </p>
 
 <br>
+
 Recent News
 ======
 * Aug 2023: Pass my <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens">MPhil Thesis Defense</a> at the HKUST. 
-* Jun 2023: Publish a <a href="https://chn.oversea.cnki.net/kns/defaultresult/index">Paper</a> about Chinese Belief Network. 
+* Jun 2023: Publish <a href="https://chn.oversea.cnki.net/kns/defaultresult/index">a Paper about Chinese Belief Network</a>. 
