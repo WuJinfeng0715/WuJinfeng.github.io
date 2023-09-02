@@ -27,13 +27,13 @@ Recent News
         Aug 2023: Pass MPhil Thesis Defense at the HKUST.
         <p>
         </p>
-        <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens"><img src='/images/MPhil_Defense.png'></a>
+        <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens"><img src='/images/MPhil_Defense.png' height="1206"></a>
       </td>
         <td style="margin-left:auto; margin-right:auto; border:none;">
         Jun 2023: A Paper about Chinese Belief Network.
         <p>
         </p>
-        <a href="https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=HFYJ202302003&uniplatform=OVERSEA&v=U2eZyMnRyYeWKOGpr2NzHw4araapRChCAurxmklTrrTlUi4pAJKyVq3aCfHIW2m_"><img src='/images/Belief_Network.png'></a>
+        <a href="https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=HFYJ202302003&uniplatform=OVERSEA&v=U2eZyMnRyYeWKOGpr2NzHw4araapRChCAurxmklTrrTlUi4pAJKyVq3aCfHIW2m_"><img src='/images/Belief_Network.png' height="1206"></a>
       </td>
     </tr>
   </table>
