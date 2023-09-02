@@ -24,13 +24,13 @@ Recent News
   <table style="margin-left:auto; margin-right:auto; border:none;">
     <tr style="margin-left:auto; margin-right:auto; border:none;">
       <td style="margin-left:auto; margin-right:auto; border:none;">
-        Aug 2023: Pass MPhil Thesis Defense at the HKUST.
+        <font size = 3>Aug 2023: Pass MPhil Thesis Defense at the HKUST.</font>
         <p>
         </p>
         <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens"><img src='/images/MPhil_Defense.png'></a>
       </td>
         <td style="margin-left:auto; margin-right:auto; border:none;">
-        Jun 2023: A Paper about Chinese Belief Network.
+        <font size = 3>Jun 2023: A Paper about Chinese Belief Network.</font>
         <p>
         </p>
         <a href="https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=HFYJ202302003&uniplatform=OVERSEA&v=U2eZyMnRyYeWKOGpr2NzHw4araapRChCAurxmklTrrTlUi4pAJKyVq3aCfHIW2m_"><img src='/images/Belief_Network.png'></a>
