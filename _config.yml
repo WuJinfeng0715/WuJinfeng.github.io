@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WuJinfeng"
+title                    : "Wu Jinfeng"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Wu Jinfeng"
 description              : &description "personal description"
 url                      : https://WuJinfeng0715.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Wu Jinfeng"
   avatar           : "profile_2.png"
-  bio              : "The Hong Kong University of Science and Technology"
+  bio              : "HKUST"
   location         : "Hong Kong, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "wu_jf@outlook.com"
-  researchgate    :  https://www.researchgate.net/profile/Jinfeng_Wu6
+  researchgate     :  https://www.researchgate.net/profile/Jinfeng_Wu6
   uri              :
   bitbucket        :
   codepen          :
@@ -111,7 +111,7 @@ author:
   tumblr           :
   #twitter         : "replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : "https://weibo.com/u/7727288408"
   xing             :
   youtube          :
   wikipedia        :
