@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p align="justify">
+
 Education
 ======
 
@@ -83,4 +85,7 @@ Skills
 * Language
   * Mandarin (Native), English (Fluent), Hokkien (Native)
   
+<br>
 Version: 02 Sep,2023
+
+</p>
