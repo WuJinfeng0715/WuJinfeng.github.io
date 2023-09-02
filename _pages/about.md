@@ -27,11 +27,11 @@ Recent News
     <tr>
     border: none!important;
       <td>
-      Aug 2023: Pass my <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens">MPhil Thesis Defense</a> at the HKUST. 
+      Aug 2023: Pass my <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens">MPhil Thesis Defense</a> at the HKUST.<br> 
       <img src='/images/MPhil_Defense.png'>
       </td>
       <td>
-      Jun 2023: Publish <a href="https://chn.oversea.cnki.net/kns/defaultresult/index">a Paper about Chinese Belief Network</a>.
+      Jun 2023: Publish <a href="https://chn.oversea.cnki.net/kns/defaultresult/index">a Paper about Chinese Belief Network</a>.<br>
       <img src='/images/Belief_Network.png'>
       </td>
     </tr>
