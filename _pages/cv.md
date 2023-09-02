@@ -25,8 +25,8 @@ Education
   
 Research Interests
 ======
-* Political Sociology: Political Values; Political Participation
-* Sociology of the Internet: Ideologies in the Social Media Platforms, Social Media 
+* Political Sociology
+* Political Communiation
 * Computational Social Science
   
 Publications
