@@ -15,7 +15,8 @@ About Me
 I am an Ph.D. student in Social Science at the <a href="https://sosc.hkust.edu.hk/">Social Science Division</a>, Hong Kong University of Science and Technology. My research interests include Political sociology, Political Communiation and Public Opinions. My previous research has investigated the diversity and changes in citizens' political attitudes, with China as an research Context.
 <br>
 <br>
-For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">the cv-page</a> or download <a href="https://wujinfeng0715.github.io//files/CV-JinfengWu-20221206.pdf"> mycv file </a>.<br>
+For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">the cv-page</a> or download <a href="https://wujinfeng0715.github.io//files/CV-JinfengWu-20221206.pdf"> my cv file </a>.
+<br>
 
 </p>
 
@@ -26,9 +27,11 @@ Recent News
     <tr>
       <td>
       Aug 2023: Pass my <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens">MPhil Thesis Defense</a> at the HKUST. 
+      <img src='/images/500x300.png'>
       </td>
       <td>
-      Jun 2023: Publish <a href="https://chn.oversea.cnki.net/kns/defaultresult/index">a Paper about Chinese Belief Network</a>. 
+      Jun 2023: Publish <a href="https://chn.oversea.cnki.net/kns/defaultresult/index">a Paper about Chinese Belief Network</a>.
+      <img src='/images/500x300.png'>
       </td>
     </tr>
   </table>
