@@ -29,7 +29,7 @@ Recent News
         </p>
         <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens"><img src='/images/MPhil_Defense.png' height="1206"></a>
       </td>
-        <td style="margin-left:auto; margin-right:auto; border:none;">
+      <td style="margin-left:auto; margin-right:auto; border:none;">
         <font size = 3>Jun 2023: A Paper about Chinese Belief Network.</font>
         <p>
         </p>
