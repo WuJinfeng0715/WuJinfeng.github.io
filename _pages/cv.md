@@ -13,9 +13,9 @@ Education
 ======
 
 * The Hong Kong University of Science and Technology
-  * Sept. 2023 - Present, PhD Student in Social Science
+  * Sept. 2023 - Present, PhD Student in Social Science<br>
   Supervisor: [Prof.Yongshun CAI](https://sosc.hkust.edu.hk/people/yongshun-cai) & [Prof.Dong ZHANG](https://sites.google.com/site/poliscidongzhang)
-  * Sept. 2021 - Aug. 2023, MPhil in Social Science
+  * Sept. 2021 - Aug. 2023, MPhil in Social Science<br>
   Supervisor: [Prof.Yongshun CAI](https://sosc.hkust.edu.hk/people/yongshun-cai) & [Prof.Dong ZHANG](https://sites.google.com/site/poliscidongzhang)
 * Fudan University 
   * Sept. 2018 - June. 2021, Master of Law in Sociology
@@ -78,7 +78,8 @@ Skills
 * Programming and Statistical Software
   * Python, R, Stata, LaTex
 * Research Methods
-  * Quantitative Analysis (e.g., Regression Analysis; Causal Inference); Big Data Analysis (e.g., Data Scraping; Machine Learning)
+  * Quantitative Analysis (e.g., Regression Analysis; Causal Inference)
+  * Big Data Analysis (e.g., Data Scraping; Machine Learning)
 * Language
   * Mandarin (Native), English (Fluent), Hokkien (Native)
   
