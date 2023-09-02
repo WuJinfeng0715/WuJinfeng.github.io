@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-
 * The Hong Kong University of Science and Technology
   * Sept. 2023 - Present, PhD Student in Social Science<br>
   Supervisor: [Prof. Cai Yongshun](https://sosc.hkust.edu.hk/people/yongshun-cai) & [Prof. Zhang Dong](https://sites.google.com/site/poliscidongzhang)
