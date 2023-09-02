@@ -15,7 +15,7 @@ About Me
 I am a Ph.D. student in Social Science at the <a href="https://sosc.hkust.edu.hk/">Social Science Division</a>, Hong Kong University of Science and Technology. My research interests include Political sociology, Political Communiation and Public Opinions. My previous research has investigated the diversity and changes in citizens' political attitudes, with China as an research context.
 <br>
 <br>
-For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">the cv-page</a> or download <a href="https://wujinfeng0715.github.io//files/CV-JinfengWu-20221206.pdf"> my curriculum vitae </a>.
+For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">the cv-page</a> or download <a href="https://wujinfeng0715.github.io//files/CV-JinfengWu-20221206.pdf">my curriculum vitae</a>.
 <br>
 
 </p>
@@ -26,13 +26,11 @@ Recent News
   <table style="margin-left:auto; margin-right:auto; border:none;">
     <tr style="margin-left:auto; margin-right:auto; border:none;">
       <td style="margin-left:auto; margin-right:auto; border:none;">
-        Aug 2023: Pass my <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens">MPhil Thesis Defense</a> at the HKUST.
-        <p>
+        Aug 2023: Pass my <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens">MPhil Thesis Defense</a> at the HKUST.<p>
         <img src='/images/MPhil_Defense.png'>
       </td>
         <td style="margin-left:auto; margin-right:auto; border:none;">
-        Jun 2023: Publish <a href="https://chn.oversea.cnki.net/kns/defaultresult/index">a Paper about Chinese Belief Network</a>.
-        <p>
+        Jun 2023: Publish <a href="https://chn.oversea.cnki.net/kns/defaultresult/index">a Paper about Chinese Belief Network</a>.<p>
         <img src='/images/Belief_Network.png'>
       </td>
     </tr>
