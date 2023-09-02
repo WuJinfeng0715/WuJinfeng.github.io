@@ -18,7 +18,6 @@ I am an Ph.D. student in Social Science at the <a href="https://sosc.hkust.edu.h
 For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">the cv-page</a> or download <a href="https://wujinfeng0715.github.io//files/CV-JinfengWu-20221206.pdf"> mycv file </a>.<br>
 
 </p>
-<br>
 
 Recent News
 ======
