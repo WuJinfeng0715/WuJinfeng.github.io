@@ -41,6 +41,7 @@ CSSCI indicates “Chinese Social Science Citation Index”.
 
 Selected Conference Articles
 ======
+<p align="justify">
 * Wu, Jinfeng and Huang, Ronggui. (2023). Varieties of Chinese Cyber Nationalism in Online Communities. Association for Asian Studies 2023 Annual Conference. Boston
 * Wu, Jinfeng and Xu, Muyao. (2022). China’s Social Volcano Revisited: Unfair Treatment due to Income Inequality and Political Evaluations in China. International Chinese Sociology Association 2022 Annual Conference. Guangzhou
 * Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (2021). Changes in Chinese people's Belief Network (1990-2018). Annual Meeting of the Chinese Sociological Association
@@ -50,6 +51,7 @@ Selected Conference Articles
 * Wu, Jinfeng. (2019). Economic Development, Marketization and Chinese Citizens’ Political Values. Annual Meeting of the Chinese Sociological Association
   * *This paper won Distinguished Paper Award in Annual Meeting of the Chinese Sociological Association*
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2018). Three Faces of Chinese Citizens’ Political Values: An Exploratory Study Based on Social Mentality of Thousand People Program. Annual Meeting of the Chinese Sociological Association  
+<\p>
 
 Academic Honors
 ======
