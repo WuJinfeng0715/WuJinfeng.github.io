@@ -11,7 +11,7 @@ redirect_from:
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<i class="fa fa-drivers-license"></i>  About Me
+<i class="fa fa-fw fa-drivers-license"></i> About Me
 ======
 <p align="justify">
 <font size = 3> I am Wu Jinfeng (吴锦峰), a Ph.D. student in Social Science at the <a href="https://sosc.hkust.edu.hk/">Social Science Division</a>, Hong Kong University of Science and Technolog (HKUST). My research interests include Political sociology and Political Communiation. My previous research has investigated the diversity and changes in citizens' political attitudes, with China (including Chinese Social Media) as a research context.
