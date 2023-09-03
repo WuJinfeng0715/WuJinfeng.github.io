@@ -41,7 +41,7 @@ For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">
 
 <html> 
 
-<a href='https://clustrmaps.com/site/1bwd2'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=vErKoIKYmqOR9Ma1fRhel4OuyPd3lQJX26PGzWHGQCg'/ hidden></a>
+<a href='https://clustrmaps.com/site/1bwd2'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=vErKoIKYmqOR9Ma1fRhel4OuyPd3lQJX26PGzWHGQCg' hidden></a>
  
 </html> 
 
