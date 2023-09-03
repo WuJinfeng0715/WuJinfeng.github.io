@@ -40,17 +40,9 @@ For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">
 </html>
 
 <html> 
-<head> 
-<style> 
-.hidden-image {  
-display: none;  
-/* visibility: hidden; */ 
-}  
-</style> 
-</head> 
-<body> 
-<a href='https://clustrmaps.com/site/1bwd2'  title='Visit tracker'><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=vErKoIKYmqOR9Ma1fRhel4OuyPd3lQJX26PGzWHGQCg"/ class="hidden-image" alt="Hidden Image"> 
-</body> 
+
+<a href='https://clustrmaps.com/site/1bwd2'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=vErKoIKYmqOR9Ma1fRhel4OuyPd3lQJX26PGzWHGQCg'/ hidden></a>
+ 
 </html> 
 
 
