@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
 Education
 ======
 * The Hong Kong University of Science and Technology<br>
