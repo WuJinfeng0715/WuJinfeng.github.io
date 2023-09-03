@@ -75,7 +75,7 @@ Student Leadership
 Skills
 ======
 * Programming and Statistical Software
-  * Python, R, Stata, LaTex
+  * Python, R, Stata, LaTex, SQL
 * Research Methods
   * Quantitative Analysis (e.g., Regression Analysis; Causal Inference)
   * Big Data Analysis (e.g., Data Scraping; Machine Learning)
