@@ -10,7 +10,11 @@ redirect_from:
 {% include base_path %}
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<a href="https://wujinfeng0715.github.io//files/CV-JinfengWu-20230903.pdf"><i class="fa fa-file-pdf-o fa-2xl"></i></a> Download my Curriculum Vitae
+
+ <div style="text-align: center;">
+    <i class="fa-solid fa-file-pdf-o fa-5x"></i>
+    <h4 style="margin-top: 0.25em;">Curriculum Vitae.</h4>
+ </div>
 
 Education
 ======
