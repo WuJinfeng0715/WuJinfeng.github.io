@@ -39,6 +39,4 @@ For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">
   </table>
 </html>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vErKoIKYmqOR9Ma1fRhel4OuyPd3lQJX26PGzWHGQCg&cl=ffffff&w=a" hidden=true></script>
-
 
