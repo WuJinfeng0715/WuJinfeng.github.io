@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
  <div style="text-align: center;">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <i class="fa-solid fa-file-pdf-o fa-5x"></i>
     <h4 style="margin-top: 0.25em;">Curriculum Vitae.</h4>
  </div>
