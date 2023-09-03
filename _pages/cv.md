@@ -11,7 +11,7 @@ redirect_from:
 
  <div style="text-align: left;">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <i class="fa fa-file-pdf-o fa-2x"></i> Curriculum Vitae
+    <i class="fa fa-file-pdf-o fa-2x"></i> <p>Curriculum Vitae</p>
  </div>
 
 Education
