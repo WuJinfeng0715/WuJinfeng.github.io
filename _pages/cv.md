@@ -12,7 +12,7 @@ redirect_from:
  <div style="text-align: center;">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <i class="fa fa-file-pdf-o fa-3x"></i>
-    <h4 style="margin-top: 0.5em;">Curriculum Vitae.</h4>
+    <h4 style="margin-top: 0.5em;">Curriculum Vitae</h4>
  </div>
 
 Education
