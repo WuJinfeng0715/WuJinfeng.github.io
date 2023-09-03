@@ -41,6 +41,6 @@ For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">
 
 <html>
   <br>
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=vErKoIKYmqOR9Ma1fRhel4OuyPd3lQJX26PGzWHGQCg'></script>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=vErKoIKYmqOR9Ma1fRhel4OuyPd3lQJX26PGzWHGQCg' hidden=true></script>
 </html>
 
