@@ -15,13 +15,12 @@ redirect_from:
 Education
 ======
 * The Hong Kong University of Science and Technology
+  Supervisor: [Prof. Cai Yongshun](https://sosc.hkust.edu.hk/people/yongshun-cai) & [Prof. Zhang Dong](https://sites.google.com/site/poliscidongzhang)
   * Sept. 2023 - Present, PhD Student in Social Science<br>
-  Supervisor: [Prof. Cai Yongshun](https://sosc.hkust.edu.hk/people/yongshun-cai) & [Prof. Zhang Dong](https://sites.google.com/site/poliscidongzhang)
   * Sept. 2021 - Aug. 2023, MPhil in Social Science<br>
-  Supervisor: [Prof. Cai Yongshun](https://sosc.hkust.edu.hk/people/yongshun-cai) & [Prof. Zhang Dong](https://sites.google.com/site/poliscidongzhang)
 * Fudan University 
-  * Sept. 2018 - June. 2021, Master of Law in Sociology<br>
   Supervisor: [Prof. Huang Ronggui](https://scholar.google.com/citations?user=PVg__mIAAAAJ&hl=zh-CN&oi=ao)
+  * Sept. 2018 - June. 2021, Master of Law in Sociology<br>
   * Sept. 2014 - June. 2018, Bachelor of Law in Sociology 
 * National University of Singapore  
   * Aug. 2016 - Dec. 2016, Exchange Student
