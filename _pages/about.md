@@ -14,7 +14,7 @@ redirect_from:
 <font size = 3> I am Wu Jinfeng (吴锦峰), a Ph.D. student in Social Science at the <a href="https://sosc.hkust.edu.hk/">Social Science Division</a>, Hong Kong University of Science and Technology (HKUST). My research interests include Political Sociology and Political Communication. My previous research has investigated the diversity and changes in citizens' political attitudes, with China (including Chinese Social Media) as a research context.
 <br>
 <br>
-For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">the cv-page</a> or download my <a href="https://wujinfeng0715.github.io//files/CV-JinfengWu-20230903.pdf">Curriculum Vitae</a>. </font>
+For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">the cv-page</a> or download my <a href="https://wujinfeng0715.github.io//files/CV-JinfengWu-20230903.pdf">curriculum vitae</a>. </font>
 <br>
 </p>
 
