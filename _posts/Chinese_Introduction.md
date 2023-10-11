@@ -1,6 +1,6 @@
 ---
-title: 'Chinese Self-Introduction(中文履历)'
-date: 2023-10-11
+title: 'Chinese Self-Introduction'
+date: 2023-10-12
 permalink: /posts/2023/10/chinese_cv/
 tags:
   - Others
