@@ -6,8 +6,6 @@ tags:
   - Others
 ---
 
-Since it would be exhausted for me to update two versions of academic pages frequently, I would like to briefly summary my academic experiences in Chinese here. The information would be updated when it is necessary.
-
 吴锦峰，香港科技大学社会科学部博士生，研究方向为政治社会学与政治传播。过往研究聚焦于关注中国人政治与文化价值观的核心特征、变迁趋势及影响因素，并集中关注观念类型学分析、网络社会思潮及观念变迁三大议题。
 
 部分发表可见：
