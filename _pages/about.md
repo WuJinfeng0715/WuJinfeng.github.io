@@ -18,7 +18,7 @@ For more infomation, please check <a href="https://wujinfeng0715.github.io/cv/">
 <br>
 </p>
 
-<i class="fa fa-fw fa-rss"></i> <span style="font-size: 14px;">Recent News</span>
+<i class="fa fa-fw fa-rss"></i> <span style="font-size: 20px;">Recent News</span>
 ===
 <html>
   <table style="margin-left:auto; margin-right:auto; border:none;">
