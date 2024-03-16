@@ -24,7 +24,7 @@ Education
   * Aug. 2016 - Dec. 2016, Exchange Student
   
 <h2 id="active">
-## Research Interests
+Research Interests
 </h2>
 
 * Political Sociology
