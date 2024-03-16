@@ -48,9 +48,9 @@ CSSCI indicates “Chinese Social Science Citation Index”.
 
 ## Academic Honors
 * Red Bird Scholarship (HKD 80,000), 2023
-* Distinguished Paper Award, Section on Social Network and Social Capital, Annual Meeting of the Chinese Sociological Association, 2021
-* Distinguished Paper Award, Section on Political Sociology, Annual Meeting of the Chinese Sociological Association, 2019
-* Distinguished Paper Award, Section on Social Mentality, Annual Meeting of the Shanghai Sociological Association, 2019
+* Distinguished Paper, Section on Social Network and Social Capital, Annual Meeting of the Chinese Sociological Association, 2021
+* Distinguished Paper, Section on Political Sociology, Annual Meeting of the Chinese Sociological Association, 2019
+* Distinguished Paper, Section on Social Mentality, Annual Meeting of the Shanghai Sociological Association, 2019
 * National Scholarship for Postgraduates (CNY 20,000), 2019&2020 
 * Excellent Dissertation for Bachelor's Degree, Fudan University, 2018
 
