@@ -32,7 +32,7 @@ Education
 * Computational Social Science
   
 <h2 id="active">
-## Publication
+Publication
 </h2>
 
 * Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (2023). Changes in Chinese People's Belief Network (1990-2018). Journal of Social Development, 10(2), 38-56+243. (In Chinese) [CSSCI] [Abstract](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=HFYJ202302003&uniplatform=OVERSEA&v=U2eZyMnRyYeWKOGpr2NzHw4araapRChCAurxmklTrrTlUi4pAJKyVq3aCfHIW2m_)   
@@ -44,7 +44,7 @@ Education
 CSSCI indicates “Chinese Social Science Citation Index”.
 
 <h2 id="active">
-## Selective Conference Paper
+Selective Conference Paper
 </h2>
 
 * Wu, Jinfeng and Huang, Ronggui. (2023). Varieties of Chinese Cyber Nationalism in Online Communities. Association for Asian Studies 2023 Annual Conference. Boston
@@ -58,7 +58,7 @@ CSSCI indicates “Chinese Social Science Citation Index”.
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2018). Three Faces of Chinese Citizens’ Political Values: An Exploratory Study Based on Social Mentality of Thousand People Program. Annual Meeting of the Chinese Sociological Association  
 
 <h2 id="active">
-## Academic Honors
+Academic Honors
 </h2>
 
 * Red Bird Scholarship (HKD 80,000), 2023
@@ -69,7 +69,7 @@ CSSCI indicates “Chinese Social Science Citation Index”.
 * Excellent Dissertation for Bachelor's Degree, Fudan University, 2018
 
 <h2 id="active">
-## Other Awards
+Other Awards
 </h2>
 
 * Outstanding Graduate, Shanghai, 2021
@@ -77,7 +77,7 @@ CSSCI indicates “Chinese Social Science Citation Index”.
 * Distinguished Student Leader Award, Fudan University, 2017
 
 <h2 id="active">
-## Student Leadership
+Student Leadership
 </h2>
 
 * President, Student Union in SSDPP at Fudan University, 2017
@@ -85,7 +85,7 @@ CSSCI indicates “Chinese Social Science Citation Index”.
 * Member, Fudan Debate Team, 2015-2016
 
 <h2 id="active">
-## Skills
+Skills
 </h2>
 
 * Programming and Statistical Software
