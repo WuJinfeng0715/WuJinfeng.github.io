@@ -29,11 +29,8 @@ redirect_from:
 * Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (2023). Changes in Chinese People's Belief Network (1990-2018). Journal of Social Development, 10(2), 38-56+243. (In Chinese) [CSSCI] [Abstract](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=HFYJ202302003&uniplatform=OVERSEA&v=U2eZyMnRyYeWKOGpr2NzHw4araapRChCAurxmklTrrTlUi4pAJKyVq3aCfHIW2m_)   
 * Wu, Jinfeng; Huang, Ronggui. (2022). Varieties of Chinese Online Nationalism in Online Community. Journalism Review, (11), 3-15. (In Chinese) [CSSCI] [Abstract](https://kns.cnki.net/kcms/detail/detail.aspx?filename=XWJZ202211001&dbcode=CJFQ&dbname=DKFXTEMP&v=9xYQTGrRPtNvBcErTPpbQLx1nhMCAYMKAdH6eqip-q7UrultprwKaWY6brpx3A9N)
 * Huang, Ronggui; Wu Jinfeng & Gui, Yong. (2022). Internet Social Mentality: Key Features; Theoretical Perspectives and Research Topics. Sociological Review of China, (3), 102-120. (In Chinese) [CSSCI] [Abstract](http://src.ruc.edu.cn/CN/abstract/abstract426.shtml#)
-* Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2020). Chinese Netizens’ Worldview towards Social Fairness in the Internet Field: A Semantic Network Analysis Based on Sina-Weibo Tweets (2013-2018). Journal of Sociological Studies, (3), 132-153. (In Chinese) [Abstract](https://www.jikan.com.cn/aD/a?id=2079113&pN=%25E6%25A3%2580%25E7%25B4%25A2%25E7%25BB%2593%25E6%259E%259C%25E9%25A1%25B5)
-* Zheng, Wen; Wu, Jinfeng & Hu, Jiafeng. (2020). Network Mirroring of the New Era and Its Social Meaning. Journal of Lanzhou University (Social Sciences), 48(5), 138-143. (In Chinese) [CSSCI] [Abstract](https://kns.cnki.net/kcms/detail/detail.aspx?filename=LDSK202005017&dbcode=CJFQ&dbname=CJFDTEMP&v=F66xOxab574x29y%mmd2BNJ0KKk85QkVeKzwM2HJWS1JCDkNLEEtdRqugmh7RXJPfjYx1)
 
 CSSCI indicates “Chinese Social Science Citation Index”.
-
 
 ## Selective Conference Paper
 * Wu, Jinfeng and Huang, Ronggui. (2023). Varieties of Chinese Cyber Nationalism in Online Communities. Association for Asian Studies 2023 Annual Conference. Boston
@@ -47,7 +44,7 @@ CSSCI indicates “Chinese Social Science Citation Index”.
 * Wu, Jinfeng; Huang, Ronggui & Gui, Yong. (2018). Three Faces of Chinese Citizens’ Political Values: An Exploratory Study Based on Social Mentality of Thousand People Program. Annual Meeting of the Chinese Sociological Association  
 
 ## Academic Honors
-* Red Bird Scholarship (HKD 80,000), 2023
+* Red Bird Scholarship (HKD 82,000), 2023
 * Distinguished Paper, Section on Social Network and Social Capital, Annual Meeting of the Chinese Sociological Association, 2021
 * Distinguished Paper, Section on Political Sociology, Annual Meeting of the Chinese Sociological Association, 2019
 * Distinguished Paper, Section on Social Mentality, Annual Meeting of the Shanghai Sociological Association, 2019
@@ -74,4 +71,4 @@ CSSCI indicates “Chinese Social Science Citation Index”.
   * Mandarin (Native), English (Fluent), Hokkien (Native)
   
 <br>
-Version: 02 Sep,2023
+Version: 04 April,2024
