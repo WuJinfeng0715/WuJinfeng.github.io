@@ -22,7 +22,7 @@ redirect_from:
   <table style="margin-left:auto; margin-right:auto; border:none;">
     <tr style="margin-left:auto; margin-right:auto; border:none;">
       <td style="margin-left:auto; margin-right:auto; border:none;">
-        <p><b>Aug 2023: MPhil Thesis on Political Support in the HKUST</b></p>
+        <p><b>Aug 2023: MPhil Thesis on Political Support</b></p>
         <p>
         </p>
         <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens"><img src='/images/State_Citizen Conflict.png' height="1206"></a>
