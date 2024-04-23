@@ -25,7 +25,7 @@ redirect_from:
         <p><b>Aug 2023: Pass MPhil Thesis Defense at the HKUST</b></p>
         <p>
         </p>
-        <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens"><img src='/images/MPhil_Defense.png' height="1206"></a>
+        <a href="https://sosc.hkust.edu.hk/events/state-citizen-conflict-and-emergence-chinese-critical-citizens"><img src='/images/State_Citizen Conflict.png' height="1206"></a>
       </td>
       <td style="margin-left:auto; margin-right:auto; border:none;">
         <p><b>Jun 2023: A Paper about Chinese Belief Network</b></p>
