@@ -1,5 +1,5 @@
 ---
-title: 'Explore Political Culture Study'
+title: 'Resources for Empirical Social Science'
 date: 2024-05-30
 permalink: /posts/2024/05/resource_sosc/
 tags:
