@@ -10,7 +10,7 @@ This is a list of some public resources for empirical social science, which I up
 
 ## Causal Inference
 
-A List of Studies using Causal Inference by DAVID MCKENZIE <a href="https://blogs.worldbank.org/en/impactevaluations/curated-list-our-postings-technical-topics-your-one-stop-shop-methodology?ct=9246">[Link]</a>
+A List of Studies using Causal Inference by David Mckenzie <a href="https://blogs.worldbank.org/en/impactevaluations/curated-list-our-postings-technical-topics-your-one-stop-shop-methodology?ct=9246">[Link]</a>
 
 ## STATA
 
