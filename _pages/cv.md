@@ -25,7 +25,7 @@ redirect_from:
 * Political Communiation
 * Computational Social Science
 
-## Working in Pregress
+## Working in Progress
 * Liu, S., Makarin, A., Wu, J., & Zhang, D. (2024). The War of Ideas: Institutions and Global Media Bias. Available at SSRN 4785567. [Abstract](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4785567)
 
 ## Publication
