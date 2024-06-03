@@ -25,6 +25,9 @@ redirect_from:
 * Political Communiation
 * Computational Social Science
 
+## Working in Pregress
+* Liu, S., Makarin, A., Wu, J., & Zhang, D. (2024). The War of Ideas: Institutions and Global Media Bias. Available at SSRN 4785567. [Abstract](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4785567)
+
 ## Publication
 * Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (2023). Changes in Chinese People's Belief Network (1990-2018). Journal of Social Development, 10(2), 38-56+243. (In Chinese) [CSSCI] [Abstract](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=HFYJ202302003&uniplatform=OVERSEA&v=U2eZyMnRyYeWKOGpr2NzHw4araapRChCAurxmklTrrTlUi4pAJKyVq3aCfHIW2m_)   
 * Wu, Jinfeng; Huang, Ronggui. (2022). Varieties of Chinese Online Nationalism in Online Community. Journalism Review, (11), 3-15. (In Chinese) [CSSCI] [Abstract](https://kns.cnki.net/kcms/detail/detail.aspx?filename=XWJZ202211001&dbcode=CJFQ&dbname=DKFXTEMP&v=9xYQTGrRPtNvBcErTPpbQLx1nhMCAYMKAdH6eqip-q7UrultprwKaWY6brpx3A9N)
