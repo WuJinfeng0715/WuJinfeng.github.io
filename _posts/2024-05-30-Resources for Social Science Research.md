@@ -1,12 +1,12 @@
 ---
-title: 'Resources for Empirical Social Science'
+title: 'Public Resources for Empirical Social Science'
 date: 2024-05-30
 permalink: /posts/2024/05/resource_sosc/
 tags:
   - Research
 ---
 
-This is a list of some public resources for empirical social science, which I update from time to time. 
+This is a list of some public resources for empirical social science, which I collecte from the Internet and update from time to time. 
 
 ## Causal Inference
 
