@@ -26,7 +26,7 @@ redirect_from:
 * Computational Social Science
 
 ## Working in Progress
-* Liu, Sibo, Makarin, Alexey, Wu, Jinfeng, & Zhang, Dong (2024). The War of Ideas: Institutions and Global Media Bias. Available at SSRN 4785567. [Abstract](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4785567)
+* Liu, Sibo; Makarin, Alexey; Wu, Jinfeng; & Zhang, Dong (2024). The War of Ideas: Institutions and Global Media Bias. Available at SSRN 4785567. [Abstract](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4785567)
 
 ## Publication
 * Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (2023). Changes in Chinese People's Belief Network (1990-2018). Journal of Social Development, 10(2), 38-56+243. (In Chinese) [CSSCI] [Abstract](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=HFYJ202302003&uniplatform=OVERSEA&v=U2eZyMnRyYeWKOGpr2NzHw4araapRChCAurxmklTrrTlUi4pAJKyVq3aCfHIW2m_)   
