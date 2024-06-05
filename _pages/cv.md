@@ -35,7 +35,7 @@ redirect_from:
 
 CSSCI indicates “Chinese Social Science Citation Index”.
 
-## Selective Conference Paper
+## Selected Conference Paper
 * Wu, Jinfeng and Huang, Ronggui. (2023). Varieties of Chinese Cyber Nationalism in Online Communities. Association for Asian Studies 2023 Annual Conference. Boston
 * Wu, Jinfeng and Xu, Muyao. (2022). China’s Social Volcano Revisited: Unfair Treatment due to Income Inequality and Political Evaluations in China. International Chinese Sociology Association 2022 Annual Conference. Guangzhou
 * Tian, Feng; Wu, Jinfeng; Wang, Yangyu. (2021). Changes in Chinese people's Belief Network (1990-2018). Annual Meeting of the Chinese Sociological Association
