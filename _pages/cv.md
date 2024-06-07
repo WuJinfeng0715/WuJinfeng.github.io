@@ -66,7 +66,7 @@ CSSCI indicates “Chinese Social Science Citation Index”.
 
 ## Skills
 * Programming and Statistical Software
-  * Python, R, Stata, LaTex, SQL
+  * Python, R, Stata, LaTeX, SQL
 * Research Methods
   * Quantitative Analysis (e.g., Regression Analysis; Causal Inference)
   * Big Data Analysis (e.g., Data Scraping; Machine Learning)
