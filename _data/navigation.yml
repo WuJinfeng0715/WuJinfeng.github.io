@@ -3,7 +3,7 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Blog Posts"
+  # - title: "Blog Posts"
     url: /year-archive/
 
   #- title: "中文简历"
