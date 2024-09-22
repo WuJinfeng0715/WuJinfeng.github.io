@@ -16,7 +16,7 @@ redirect_from:
 <br>
 </p>
 
-## Recent News
+<h2 style="color: navy; font-weight: bold;">Recent News</h2>
 
 <html>
   <table style="margin-left:auto; margin-right:auto; border:none;">
